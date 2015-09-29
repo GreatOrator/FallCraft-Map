@@ -14,6 +14,7 @@
 	"releaseNumber": "1",
     "downloadURL": "http://minecraft.curseforge.com/worlds/226743-tolkiencraft-ii-draconis/files/2255469/download",
     "isRegional": false,
-    "regionPath": ""
+	"regionInputPath": "",
+    "regionOutputPath": ""
   }
 ]
