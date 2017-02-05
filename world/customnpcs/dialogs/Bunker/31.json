@@ -40,7 +40,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Ah so you found the ol’ gal. She’s a right purdy thing ain’t she? You e’er fire a pistol afore youngun?",
+    "DialogText": "She’s a right purdy thing ain’t she? You e’er fire a pistol afore youngun?",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
@@ -57,7 +57,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1468689679509L,
+        "TimePast": 1473389281532L,
         "Time": 0L,
         "Subject": ""
     }

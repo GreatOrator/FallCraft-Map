@@ -18,7 +18,7 @@
     "QuestCommand": "",
     "QuestDialogs": [
         {
-            "Value": 10,
+            "Value": 8,
             "Slot": "Bandit"
         }
     ],
@@ -32,7 +32,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1471731784625L,
+        "TimePast": 1473387231582L,
         "Time": 0L,
         "Subject": ""
     },
