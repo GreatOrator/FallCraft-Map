@@ -6,7 +6,7 @@
     "QuestCompletion": 0,
     "IgnoreNBT": 0b,
     "Title": "Medicine for Jen",
-    "Text": "Jen would like you to search abandoned buildings for some medicine to help her and others with pain.",
+    "Text": "Jen would like you to search the abandoned buildings east of Cozyton for some medicine to help her and others with pain.",
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 0b,
         "OptionFaction2Points": 100,
@@ -27,7 +27,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1471731839174L,
+        "TimePast": 1473385878282L,
         "Time": 0L,
         "Subject": ""
     },
