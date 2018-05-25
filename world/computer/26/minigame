@@ -1,0 +1,461 @@
+local output = "bottom"   --output side
+local wordFile = "codes"  --where the words are stored
+local textColor = colors.lime
+local attempts = 4        --how many attempts to guess the word?
+local permLockout = true  --lock the terminal permanently?
+local wordlist = "modii,snoop,zykic,cecil,squad,moist,pizza,brass,farts,tacos,ramen,drunk"
+local p = 60
+---------
+local usedWords = {}
+local status = {}
+--check for advanced monitor
+if not term.isColor() then
+  print("This program needs an advanced monitor.")
+return
+end
+
+-- Check for wordfile
+--if not fs.exists(wordFile) then
+--  print("The word file \""..wordFile.."\" is not populated.")
+-- return
+-- end
+
+--check for wordFile
+ function center(str,y)
+ local maxX,maxY = term.getSize()
+ term.setCursorPos(math.floor(maxX/2)-math.floor(string.len(str)/2),y)
+ term.write(str)
+ end
+ 
+ -- locks the terminal
+ function lockout()
+ term.clear()
+ term.setTextColor(textColor)
+ center("TERMINAL LOCKED",8)
+ center("PLEASE CONTACT AN ADMINISTRATOR",10)
+ local h = fs.open("lock_status","w")
+ h.writeLine("Locked: true")
+ h.close()
+ while true do 
+ sleep(p)
+local h = fs.open("lock_status","w")
+  h.writeLine("Locked: false")
+ h.close()
+os.reboot() 
+ end
+ os.reboot()
+ end
+ 
+ -- check for permlock
+ if not fs.exists("lock_status") then
+ local h = fs.open("lock_status","w")
+ h.writeLine("Locked: false")
+ h.close()
+ else
+ 
+ local h = fs.open("lock_status","r")
+ local isLocked = string.sub(h.readLine(),9)
+ if isLocked=="true" and permLockout then
+ lockout()
+ end
+ end
+ 
+ function main()
+ local rows=12
+ local cols=10
+ term.clear()
+ term.setCursorPos(1,1)
+ local dict = readWords(wordFile)
+ local eString1 = getEncoded(rows*cols,dict)
+ local eString2 = getEncoded(rows*cols,dict)
+  drawTitle()
+  drawAttempts(attempts)
+  drawHex(2,7)
+  drawHex(20,7)
+  drawEncoded(9,7,rows,cols,eString1)
+  drawEncoded(27,7,rows,cols,eString2)
+  local password=getPass()
+  eventListener(eString1,eString2,password)
+  term.setCursorPos(1,1)
+  end
+  
+ function getStatus(choice,pass)
+ local sameChars = commonLetters(choice,pass)
+ table.insert(status,string.upper(choice))
+ if sameChars==#pass and string.len(choice)==string.len(pass) then
+ table.insert(status,"Exact match!")
+ table.insert(status,"Please wait")
+ table.insert(status,"while system")
+ table.insert(status,"is accessed.")
+ else
+ table.insert(status,"Entry denied")
+ table.insert(status,sameChars.."/"..string.len(pass).." correct.")
+ attempts=attempts-1
+ end
+ 
+ if attempts==0 then
+ lockout()
+ end 
+ end
+ 
+ function drawStatus()
+ local startX=38
+ local startY=16
+ local currentStat=#status
+ repeat
+ 
+ if status[currentStat]==nil then break end
+ clearFrom(startX,startY)
+ term.setCursorPos(startX,startY)
+ term.write(">"..status[currentStat])
+ currentStat=currentStat-1
+ startY=startY-1
+ until startY<=6
+ end
+ 
+ --detects keypresses
+ function eventListener(leftStr,rightStr,pass)
+ local side="left"     --which eString is it
+ local charPos=1       --which  number character
+ local cmdLineX,cmdLineY=38,18
+ local selection = string.sub(leftStr,1,1)
+ local onWord=false
+ local cursorX,cursorY=9,7
+ local upperX,upperY=36,18 --upper limits
+ local lowerX,lowerY=9,7   --lower limits
+ local keys = {200,208,203,205}
+ 
+ highlight(cursorX,cursorY,selection)
+ while true do 
+ local ev,p1,p2,p3 = os.pullEventRaw()
+ if ev=="key" then
+ if inTable(p1,keys) and not onWord then
+ lowlight(cursorX,cursorY,selection)
+ elseif inTable(p1,keys) and onWord then
+ if side=="left" then
+ lowWord(selection,leftStr,side)
+ else
+ lowWord(selection,rightStr,side)
+ end
+ end
+ 
+ if p1==200 and cursorY>lowerY then  --up arrow
+ cursorY=cursorY-1
+ elseif p1==208 and cursorY<upperY then --down arrow
+ cursorY=cursorY+1
+ elseif p1==203 and cursorX>lowerX then --left arrow
+ if cursorX==27 then
+ side="left"
+ cursorX=cursorX-9
+ else
+ cursorX=cursorX-1
+ end
+ 
+ elseif p1==205 and cursorX<upperX then --right arrow
+ if cursorX==18 then
+ side="right"
+ cursorX=cursorX+9
+ else
+ cursorX=cursorX+1
+ end
+ elseif p1==28 then                     --enter key
+ getStatus(selection,pass)
+ drawStatus()
+ drawAttempts(attempts)
+ if selection==pass then
+ rs.setOutput(output,true)
+ sleep(3)
+ rs.setOutput(output,false)
+ sleep(1)
+ os.shutdown()
+ end
+ end
+ end
+ 
+ if side=="left" then
+ charPos=math.floor(((cursorY-7)*10)+(cursorX-9)+1)
+ selection=string.sub(leftStr,charPos,charPos)
+ else
+ charPos=math.floor(((cursorY-7)*10)+(cursorX-27)+1)
+ selection=string.sub(rightStr,charPos,charPos)
+ end
+ 
+ if isalpha(selection) and side=="left" then
+ selection = findWord(cursorX,cursorY,charPos,leftStr,side)
+ lightWord(selection,leftStr,side)
+ onWord=true
+ elseif isalpha(selection) and side=="right" then
+ selection = findWord(cursorX,cursorY,charPos,rightStr,side)
+ lightWord(selection,rightStr,side)
+ onWord=true
+ else
+ onWord=false
+ highlight(cursorX,cursorY,selection)
+ end
+ clearFrom(cmdLineX,cmdLineY)
+ term.setCursorPos(cmdLineX,cmdLineY)
+ term.write(">"..selection)
+ end
+ end
+ 
+ function lightWord(sel,eString,side)
+ local j=1
+ local l,r = string.find(eString,sel)
+ for i=l,r do 
+ local x,y=posToCoords(i,side)
+ highlight(x,y,string.sub(sel,j,j))
+ j=j+1
+ end
+ end
+ 
+ function lowWord(sel,eString,side)
+ local j=1
+ local l,r = string.find(eString,sel)
+ for i=l,r do 
+ local x,y = posToCoords(i,side)
+ lowlight(x,y,string.sub(sel,j,j))
+ j=j+1
+ end
+ end
+ 
+ function findWord(x,y,charPos,eString,side)
+ --check left and right
+ local left = charPos
+ local right = charPos
+ while isalpha(string.sub(eString,left-1,left-1)) do
+ left=left-1
+ end
+ 
+ while isalpha(string.sub(eString,right+1,right+1)) do
+ right=right+1
+ end
+ 
+ --highlight the word
+ for i=left,right do 
+ local x,y = posToCoords(i,side)
+ highlight(x,y,string.sub(eString,i,i))
+ end
+ return(string.sub(eString,left,right))
+ end
+ 
+ function posToCoords(pos,side)
+ local x,y=0,0
+ if side=="left" then
+ if pos%10~=0 then
+ x=pos%10+8
+ y=math.floor(pos/10)+7
+ else
+ x=10+8
+  y=math.floor(pos/10)+6
+  end
+  else
+  if pos%10~=0 then
+  x=pos%10+26
+  y=math.floor(pos/10)+7
+  else
+  x=10+26
+   y=math.floor(pos/10)+6
+   end
+   end
+   return x,y
+   end
+   
+ function highlight(x,y,sel)
+ term.setBackgroundColor(textColor)
+ term.setTextColor(colors.black)
+ term.setCursorPos(x,y)
+  term.write(sel)
+ term.setBackgroundColor(colors.black)
+  term.setTextColor(textColor)
+  end
+  
+ function lowlight(x,y,sel)
+  term.setBackgroundColor(colors.black)
+   term.setTextColor(textColor)
+  term.setCursorPos(x,y)
+  term.write(sel)
+  end
+  
+ --returns a password from the usedWords list
+  function getPass()
+ return(usedWords[math.random(1,#usedWords)])
+ end
+ 
+ function drawTitle()
+  term.setCursorPos(2,2)
+  term.write("JERLECO INDUSTRIES (TM) TERMLINK PROTOCOL")
+   term.setCursorPos(2,3)
+   term.write("ENTER PASSWORD NOW")
+   end
+   
+  function drawAttempts(a)
+   term.setCursorPos(2,5)
+   term.setTextColor(textColor)
+    term.clearLine()
+    term.write(a.." ATTEMPT(S) LEFT: ")
+   local x = 21
+   for i=1,a do
+   term.setBackgroundColor(textColor)
+   term.setCursorPos(x,5)
+    term.write(" ")
+    x = x + 2
+    end
+  term.setBackgroundColor(colors.black)
+  end
+  
+  function drawHex(x,y)
+     local rows = 12
+  term.setTextColor(textColor)
+  for i=1,rows do
+  term.setCursorPos(x,y)
+   local hstring="0x"
+  for j=1,4 do hstring=hstring..randomHex() end
+  term.write(hstring)
+   y = y + 1
+   end
+   end
+   
+  --returns string containing random nonletter characters
+  --and various words. does not have '\n' included
+  function getEncoded(size,words)
+    local step = 1
+   local totalWords=0
+   local curWord = nil
+   local onWord = false
+   local charIter = 1 --what letter in curWord are we at?
+   local chance = 0
+   local encodedString=nonletter()
+    local lastIsWord=false
+    
+   --fills encodedString with nonletter chars and words
+   repeat
+   step=step+1
+    chance = math.random(1,13)
+   if chance==6 and not onWord and not lastIsWord and totalWords<=8 then
+   local reps=0
+   repeat
+   if reps>20 then break end
+   curWord=words[math.random(1,#words)]
+   reps=reps+1
+   until not inTable(curWord,usedWords) and step+#curWord<size
+   if reps<=20 then onWord=true end
+   end
+   --determines whether to add random nonletter or char from curWord
+   if onWord then
+    encodedString=encodedString..string.sub(curWord,charIter,charIter)
+     charIter=charIter+1
+    if charIter>#curWord then
+    table.insert(usedWords,curWord)
+    onWord=false
+    totalWords=totalWords+1
+    lastIsWord=true
+    charIter=1
+    end
+else
+encodedString=encodedString..nonletter()
+lastIsWord=false
+end
+
+until string.len(encodedString)==size
+return encodedString
+end
+
+function isalpha(char)
+local alpha="abcdefghijklmnopqrstuvwxyz"
+for i=1,string.len(alpha) do
+if string.sub(alpha,i,i)==char then return true end
+end
+return false
+end
+--lightS is a table {x1,y1} and lightE is table {x2,y2}
+function drawEncoded(x,y,rows,cols,eString,lightS,lightE)
+term.setTextColor(textColor)
+local curX=x 
+local curY=y
+for i=1,rows*cols do 
+term.setCursorPos(curX,curY)
+term.write(string.sub(eString,i,i))
+if i%cols==0 then
+curY=curY+1
+curX=x 
+else
+curX=curX+1
+end
+end
+end
+
+--read the codewords from the file
+--returns list
+function readWords(fileName)
+local dict = {}
+-- local h = fs.open(fileName,"r")
+-- local wordlist = "teagan, jerle, snoop, modii"
+for word in string.gmatch(wordlist, "%a+") do table.insert(dict,word) end
+
+
+-- for word in string.gmatch(h.readAll(), "%a+") do table.insert(dict,word) end
+return dict
+end
+
+function findPattern(text,pattern,start)
+ return string.sub(text,string.find(text,pattern,start))
+ end
+ 
+ --returns one nonletter char (random)
+ function nonletter()
+   local possible = {'!','@','#','$','%','^','&','*',
+    '(',')','_','-','+','=','[','{',
+     ']','|',',','\'','\"','}',
+    ';',':','.','>','<','?'}
+   return(possible[math.random(1,#possible)])
+   end
+   
+   --returns one valid hex num (random)
+   function randomHex()
+   local possible = {'A','B','C','D','E','F'}
+   for i=0,9 do
+   table.insert(possible,i)
+   end
+   return(possible[math.random(1,#possible)])
+   end
+   
+   --returns int of same letters in same positions in two strings.
+   function commonLetters(s1,s2)
+   charsInCommon=0
+   local long,short=nil,nil
+   if string.len(s1)>=string.len(s2) then long,short=s1,s2
+   else long,short=s2,s1 end
+   for i=1,#long do
+   if string.sub(long,i,i)==string.sub(short,i,i) then
+   charsInCommon=charsInCommon+1
+   elseif string.sub(short,i,i)==nil then
+   break
+   end
+   end
+   return charsInCommon
+   end
+   
+   --clears a line from x,y till the end of the screen
+   function clearFrom(x,y)
+   term.setCursorPos(x,y)
+   for i=0,51-x do
+   term.setCursorPos(x+i,y)
+   term.write(" ")
+   end
+   end
+   
+   --checks if a value is in a given table
+   function inTable(val,t)
+   for k,v in ipairs(t) do
+   if v==val then
+   return true
+   end
+   end
+   return false
+   end
+     main()
+               
+
+                                                                                                                
+ 
+  

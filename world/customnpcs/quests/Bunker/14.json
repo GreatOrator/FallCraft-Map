@@ -1,0 +1,52 @@
+{
+    "CompleterNpc": "Jeeves",
+    "NextQuestId": 19,
+    "RandomReward": 0b,
+    "QuestRepeat": 0,
+    "QuestCompletion": 0,
+    "Title": "Jeeves",
+    "Text": "Go ask Jeeves if he could give you something to navigate to the last known location of Pleasant Valley. ",
+    "QuestFactionPoints": {
+        "DecreaseFaction1Points": 0b,
+        "OptionFaction2Points": 100,
+        "OptionFactions1": -1,
+        "OptionFactions2": -1,
+        "OptionFaction1Points": 100,
+        "DecreaseFaction2Points": 0b
+    },
+    "RewardExp": 0,
+    "QuestCommand": "",
+    "QuestDialogs": [
+    ],
+    "ModRev": 16,
+    "Type": 1,
+    "QuestMail": {
+        "Sender": "",
+        "BeenRead": 0b,
+        "Message": {
+        },
+        "MailItems": [
+        ],
+        "MailQuest": -1,
+        "TimePast": 1523663669524L,
+        "Time": 0L,
+        "Subject": ""
+    },
+    "Rewards": {
+        "NpcMiscInv": [
+            {
+                "Slot": 0b,
+                "id": "BiblioCraft:item.BiblioWayPointCompass",
+                "Count": 1b,
+                "tag": {
+                    "XCoord": 2735,
+                    "ZCoord": 3823,
+                    "WaypointName": "Pleasant Valley"
+                },
+                "Damage": 0s
+            }
+        ]
+    },
+    "CompleteText": "You need the coordinates to Pleasant Valley? I have set this compass with the last known coordinates of the town called Pleasant Valley. You should pick up some food from our botanist, Sarah Wilkes, before you go. Good luck young sir!",
+    "NextQuestTitle": "Food for the Road"
+}

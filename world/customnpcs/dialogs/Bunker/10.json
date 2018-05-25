@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 11,
-                "Title": "Yeah, she’s having problems with the lights and water again, asked if you’d have a look for her.",
+                "Title": "She’s having problems with the lights and water again, and asked if you’d have a look for her.",
                 "DialogColor": 850474,
                 "OptionType": 1
             }
@@ -40,7 +40,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Howdy, young’n, I’m figurin’ Ethel sent ya did she?",
+    "DialogText": "And what does Ethel need today?",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": 2,
@@ -57,7 +57,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1473387402433L,
+        "TimePast": 1523652658875L,
         "Time": 0L,
         "Subject": ""
     }

@@ -1,0 +1,114 @@
+{
+    "CompleterNpc": "Skiddles",
+    "NextQuestId": -1,
+    "RandomReward": 1b,
+    "QuestRepeat": 0,
+    "QuestCompletion": 0,
+    "Title": "Sourcing Metal",
+    "Text": "Paladin Jefferson wants you to find a mining operation and see if you can strike a deal for copper and zinc.",
+    "QuestFactionPoints": {
+        "DecreaseFaction1Points": 0b,
+        "OptionFaction2Points": 100,
+        "OptionFactions1": -1,
+        "OptionFactions2": -1,
+        "OptionFaction1Points": 100,
+        "DecreaseFaction2Points": 0b
+    },
+    "RewardExp": 0,
+    "QuestCommand": "",
+    "QuestDialogs": [
+    ],
+    "ModRev": 16,
+    "Type": 1,
+    "QuestMail": {
+        "Sender": "",
+        "BeenRead": 0b,
+        "Message": {
+        },
+        "MailItems": [
+        ],
+        "MailQuest": -1,
+        "TimePast": 1525645375460L,
+        "Time": 0L,
+        "Subject": ""
+    },
+    "Rewards": {
+        "NpcMiscInv": [
+            {
+                "Slot": 0b,
+                "id": "deci:uziMag",
+                "Count": 3b,
+                "tag": {
+                    "ammo": 32
+                },
+                "Damage": 0s
+            },
+            {
+                "Slot": 1b,
+                "id": "deci:rpk74Mag",
+                "Count": 3b,
+                "tag": {
+                    "ammo": 40
+                },
+                "Damage": 0s
+            },
+            {
+                "Slot": 2b,
+                "id": "deci:pkpMag",
+                "Count": 1b,
+                "tag": {
+                    "ammo": 200
+                },
+                "Damage": 0s
+            },
+            {
+                "Slot": 3b,
+                "id": "deci:kar98kMag",
+                "Count": 3b,
+                "tag": {
+                    "ammo": 5
+                },
+                "Damage": 0s
+            },
+            {
+                "Slot": 4b,
+                "id": "deci:ItemHugeMilitaryPack_Tan",
+                "Count": 1b,
+                "tag": {
+                },
+                "Damage": 0s
+            },
+            {
+                "Slot": 5b,
+                "id": "deci:l115a3Mag",
+                "Count": 3b,
+                "tag": {
+                    "ammo": 5
+                },
+                "Damage": 0s
+            },
+            {
+                "Slot": 6b,
+                "id": "deci:ItemPlateCarrier_Gray",
+                "Count": 1b,
+                "tag": {
+                },
+                "Damage": 0s
+            },
+            {
+                "Slot": 7b,
+                "id": "deci:marineforestVest",
+                "Count": 1b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 8b,
+                "id": "deci:foregrip",
+                "Count": 1b,
+                "Damage": 0s
+            }
+        ]
+    },
+    "CompleteText": "What can I help you with?",
+    "NextQuestTitle": ""
+}

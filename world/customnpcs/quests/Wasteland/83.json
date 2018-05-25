@@ -1,0 +1,41 @@
+{
+    "CompleterNpc": "Radio Tower Fuse Box 1",
+    "NextQuestId": 88,
+    "RandomReward": 0b,
+    "QuestRepeat": 0,
+    "QuestCompletion": 0,
+    "Title": "Antenna 1",
+    "Text": "Trevor asked that I go to the radio antenna outside the station to asses the damage done by the Razors.",
+    "QuestFactionPoints": {
+        "DecreaseFaction1Points": 0b,
+        "OptionFaction2Points": 100,
+        "OptionFactions1": -1,
+        "OptionFactions2": -1,
+        "OptionFaction1Points": 100,
+        "DecreaseFaction2Points": 0b
+    },
+    "RewardExp": 0,
+    "QuestCommand": "",
+    "QuestDialogs": [
+    ],
+    "ModRev": 16,
+    "Type": 1,
+    "QuestMail": {
+        "Sender": "",
+        "BeenRead": 0b,
+        "Message": {
+        },
+        "MailItems": [
+        ],
+        "MailQuest": -1,
+        "TimePast": 1526180745807L,
+        "Time": 0L,
+        "Subject": ""
+    },
+    "Rewards": {
+        "NpcMiscInv": [
+        ]
+    },
+    "CompleteText": "Alright. From what you can see the L4 transmission coil is missing? Head over to the old Orbital Electronic building and see if you can scrounge some up. Let's hope the Razors weren't imaginative when sabatoging the towers.",
+    "NextQuestTitle": "Orbital Electronics"
+}

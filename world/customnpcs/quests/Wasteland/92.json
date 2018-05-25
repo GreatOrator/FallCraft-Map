@@ -1,0 +1,120 @@
+{
+    "CompleterNpc": "Skiddles",
+    "NextQuestId": -1,
+    "RandomReward": 1b,
+    "QuestRepeat": 0,
+    "QuestCompletion": 0,
+    "Title": "Contact with Regional Base",
+    "Text": "Return to Skiddles with the good news.",
+    "QuestFactionPoints": {
+        "DecreaseFaction1Points": 0b,
+        "OptionFaction2Points": 100,
+        "OptionFactions1": -1,
+        "OptionFactions2": -1,
+        "OptionFaction1Points": 100,
+        "DecreaseFaction2Points": 0b
+    },
+    "RewardExp": 0,
+    "QuestCommand": "",
+    "QuestDialogs": [
+    ],
+    "ModRev": 16,
+    "Type": 1,
+    "QuestMail": {
+        "Sender": "",
+        "BeenRead": 0b,
+        "Message": {
+        },
+        "MailItems": [
+        ],
+        "MailQuest": -1,
+        "TimePast": 1526183751858L,
+        "Time": 0L,
+        "Subject": ""
+    },
+    "Rewards": {
+        "NpcMiscInv": [
+            {
+                "Slot": 0b,
+                "id": "deci:bulletproofvest",
+                "Count": 1b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 1b,
+                "id": "deci:ItemPoliceBaton",
+                "Count": 1b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 2b,
+                "id": "deci:mp5a3Mag",
+                "Count": 2b,
+                "tag": {
+                    "ammo": 30
+                },
+                "Damage": 0s
+            },
+            {
+                "Slot": 3b,
+                "id": "deci:gasmask",
+                "Count": 1b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 4b,
+                "id": "deci:ItemRiotshield",
+                "Count": 1b,
+                "tag": {
+                    "defence": 0
+                },
+                "Damage": 0s
+            },
+            {
+                "Slot": 5b,
+                "id": "deci:ItemBandage",
+                "Count": 9b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 6b,
+                "id": "deci:model642",
+                "Count": 1b,
+                "tag": {
+                    "ammo": 0,
+                    "mgItem": 0b,
+                    "gripAttach": "",
+                    "skin": "",
+                    "blood": 0,
+                    "mode": 0,
+                    "chamberAttach": "",
+                    "sightAttach": "",
+                    "firing": 0b,
+                    "barrelAttach": "",
+                    "stockAttach": "",
+                    "skinEng": "",
+                    "bolted": 0b,
+                    "mud": 0
+                },
+                "Damage": 0s
+            },
+            {
+                "Slot": 7b,
+                "id": "deci:vz24Mag",
+                "Count": 3b,
+                "tag": {
+                    "ammo": 24
+                },
+                "Damage": 0s
+            },
+            {
+                "Slot": 8b,
+                "id": "deci:12gauge_box",
+                "Count": 1b,
+                "Damage": 0s
+            }
+        ]
+    },
+    "CompleteText": "You are a lifesaver! My team will rendezvous with the recon team as ordered. Take this for your trouble.",
+    "NextQuestTitle": ""
+}

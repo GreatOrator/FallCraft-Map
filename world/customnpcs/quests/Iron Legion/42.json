@@ -1,0 +1,156 @@
+{
+    "CompleterNpc": "Elder Snoop",
+    "NextQuestId": -1,
+    "RandomReward": 1b,
+    "QuestRepeat": 0,
+    "QuestCompletion": 0,
+    "Title": "Razorclaw",
+    "Text": "Elder Snoop wants you to travel to Razorclaw Valley and kill one as the final task in your paladin initiation.",
+    "QuestFactionPoints": {
+        "DecreaseFaction1Points": 0b,
+        "OptionFaction2Points": 100,
+        "OptionFactions1": -1,
+        "OptionFactions2": -1,
+        "OptionFaction1Points": 100,
+        "DecreaseFaction2Points": 0b
+    },
+    "RewardExp": 0,
+    "QuestCommand": "",
+    "QuestDialogs": [
+        {
+            "Value": 1,
+            "Slot": "Razorclaw"
+        }
+    ],
+    "ModRev": 16,
+    "Type": 4,
+    "QuestMail": {
+        "Sender": "",
+        "BeenRead": 0b,
+        "Message": {
+        },
+        "MailItems": [
+        ],
+        "MailQuest": -1,
+        "TimePast": 1525645131111L,
+        "Time": 0L,
+        "Subject": ""
+    },
+    "Rewards": {
+        "NpcMiscInv": [
+            {
+                "Slot": 0b,
+                "id": "deci:ItemRiotshield",
+                "Count": 1b,
+                "tag": {
+                    "defence": 0
+                },
+                "Damage": 0s
+            },
+            {
+                "Slot": 1b,
+                "id": "deci:ItemPoliceBaton",
+                "Count": 1b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 2b,
+                "id": "deci:colt",
+                "Count": 1b,
+                "tag": {
+                    "ammo": 0,
+                    "mgItem": 0b,
+                    "gripAttach": "",
+                    "skin": "",
+                    "blood": 0,
+                    "mode": 0,
+                    "chamberAttach": "",
+                    "sightAttach": "",
+                    "firing": 0b,
+                    "barrelAttach": "",
+                    "stockAttach": "",
+                    "skinEng": "",
+                    "bolted": 1b,
+                    "mud": 0
+                },
+                "Damage": 0s
+            },
+            {
+                "Slot": 3b,
+                "id": "deci:vz52",
+                "Count": 1b,
+                "tag": {
+                    "ammo": 0,
+                    "mgItem": 0b,
+                    "gripAttach": "",
+                    "skin": "",
+                    "blood": 0,
+                    "mode": 0,
+                    "chamberAttach": "",
+                    "sightAttach": "",
+                    "firing": 0b,
+                    "barrelAttach": "",
+                    "stockAttach": "",
+                    "skinEng": "",
+                    "bolted": 1b,
+                    "mud": 0
+                },
+                "Damage": 0s
+            },
+            {
+                "Slot": 4b,
+                "id": "deci:m4a4",
+                "Count": 1b,
+                "tag": {
+                    "ammo": 0,
+                    "mgItem": 0b,
+                    "gripAttach": "",
+                    "skin": "",
+                    "blood": 0,
+                    "mode": 0,
+                    "chamberAttach": "",
+                    "sightAttach": "",
+                    "firing": 0b,
+                    "barrelAttach": "",
+                    "stockAttach": "",
+                    "skinEng": "",
+                    "bolted": 1b,
+                    "mud": 0
+                },
+                "Damage": 0s
+            },
+            {
+                "Slot": 5b,
+                "id": "deci:ump45Mag",
+                "Count": 3b,
+                "tag": {
+                    "ammo": 30
+                },
+                "Damage": 0s
+            },
+            {
+                "Slot": 6b,
+                "id": "deci:m4a4Mag",
+                "Count": 2b,
+                "tag": {
+                    "ammo": 30
+                },
+                "Damage": 0s
+            },
+            {
+                "Slot": 7b,
+                "id": "deci:gasmask",
+                "Count": 1b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 8b,
+                "id": "deci:bulletproofvest",
+                "Count": 1b,
+                "Damage": 0s
+            }
+        ]
+    },
+    "CompleteText": "Welcome to the Iron Legion. Speak with the others. They may have tasks for you.",
+    "NextQuestTitle": ""
+}

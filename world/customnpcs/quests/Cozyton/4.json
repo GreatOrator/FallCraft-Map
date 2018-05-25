@@ -1,7 +1,7 @@
 {
     "CompleterNpc": "Jen",
     "NextQuestId": -1,
-    "RandomReward": 0b,
+    "RandomReward": 1b,
     "QuestRepeat": 0,
     "QuestCompletion": 0,
     "IgnoreNBT": 0b,
@@ -15,7 +15,7 @@
         "OptionFaction1Points": 100,
         "DecreaseFaction2Points": 0b
     },
-    "RewardExp": 50,
+    "RewardExp": 0,
     "QuestCommand": "",
     "ModRev": 16,
     "Type": 0,
@@ -27,31 +27,107 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1473385878282L,
+        "TimePast": 1525644704661L,
         "Time": 0L,
         "Subject": ""
     },
     "IgnoreDamage": 0b,
     "Rewards": {
         "NpcMiscInv": [
+            {
+                "Slot": 0b,
+                "id": "deci:rpk74Mag",
+                "Count": 2b,
+                "tag": {
+                    "ammo": 40
+                },
+                "Damage": 0s
+            },
+            {
+                "Slot": 1b,
+                "id": "deci:marineurbanBoots",
+                "Count": 1b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 2b,
+                "id": "deci:kar98kMag",
+                "Count": 3b,
+                "tag": {
+                    "ammo": 5
+                },
+                "Damage": 0s
+            },
+            {
+                "Slot": 3b,
+                "id": "deci:m231Mag",
+                "Count": 3b,
+                "tag": {
+                    "ammo": 30
+                },
+                "Damage": 0s
+            },
+            {
+                "Slot": 4b,
+                "id": "deci:ItemJerryCan",
+                "Count": 1b,
+                "tag": {
+                    "amount": 19629
+                },
+                "Damage": 0s
+            },
+            {
+                "Slot": 5b,
+                "id": "deci:m231",
+                "Count": 1b,
+                "tag": {
+                    "ammo": 0,
+                    "mgItem": 0b,
+                    "gripAttach": "",
+                    "skin": "",
+                    "blood": 0,
+                    "mode": 0,
+                    "chamberAttach": "",
+                    "sightAttach": "",
+                    "firing": 0b,
+                    "barrelAttach": "",
+                    "stockAttach": "",
+                    "skinEng": "",
+                    "bolted": 1b,
+                    "mud": 0
+                },
+                "Damage": 0s
+            },
+            {
+                "Slot": 6b,
+                "id": "deci:mpt76Mag",
+                "Count": 1b,
+                "tag": {
+                    "ammo": 20
+                },
+                "Damage": 0s
+            },
+            {
+                "Slot": 7b,
+                "id": "deci:foregrip",
+                "Count": 1b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 8b,
+                "id": "deci:jng90Mag",
+                "Count": 4b,
+                "tag": {
+                    "ammo": 10
+                },
+                "Damage": 0s
+            }
         ]
     },
     "Items": {
         "NpcMiscInv": [
             {
                 "Slot": 0b,
-                "id": "flansmod:mwMedKit",
-                "Count": 1b,
-                "Damage": 0s
-            },
-            {
-                "Slot": 1b,
-                "id": "flansmod:mwMedKit",
-                "Count": 1b,
-                "Damage": 0s
-            },
-            {
-                "Slot": 2b,
                 "id": "flansmod:mwMedKit",
                 "Count": 1b,
                 "Damage": 0s

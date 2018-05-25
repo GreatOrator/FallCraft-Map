@@ -50,7 +50,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Oh, a rare visitor, what can I do for you today? Better be quick though, I have so much to do.",
+    "DialogText": "Better be quick though, I have so much to do.",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": 3,
@@ -67,7 +67,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1473387415883L,
+        "TimePast": 1523664217275L,
         "Time": 0L,
         "Subject": ""
     }

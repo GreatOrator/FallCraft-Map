@@ -2,6 +2,16 @@
     "DialogShowWheel": 0b,
     "AvailabilityQuestId": -1,
     "Options": [
+        {
+            "OptionSlot": 0,
+            "Option": {
+                "DialogCommand": "",
+                "Dialog": 307,
+                "Title": "Can you tell me about the area?",
+                "DialogColor": 15259513,
+                "OptionType": 1
+            }
+        }
     ],
     "DialogHideNPC": 0b,
     "AvailabilityFactionStance": 0,
@@ -30,7 +40,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "	It is a reality here my friend! Take a look around and speak with the others. You will see!",
+    "DialogText": "It is a reality here my friend! Take a look around and speak with the others. You will see!",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
@@ -47,7 +57,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1471728453025L,
+        "TimePast": 1524937326685L,
         "Time": 0L,
         "Subject": ""
     }

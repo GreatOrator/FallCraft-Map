@@ -11,6 +11,16 @@
                 "DialogColor": 15323215,
                 "OptionType": 1
             }
+        },
+        {
+            "OptionSlot": 1,
+            "Option": {
+                "DialogCommand": "",
+                "Dialog": -1,
+                "Title": "I will accept your food.",
+                "DialogColor": 15390097,
+                "OptionType": 2
+            }
         }
     ],
     "DialogHideNPC": 0b,
@@ -57,7 +67,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1471727887775L,
+        "TimePast": 1524937383236L,
         "Time": 0L,
         "Subject": ""
     }

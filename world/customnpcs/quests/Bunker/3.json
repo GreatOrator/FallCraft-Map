@@ -4,7 +4,7 @@
     "RandomReward": 0b,
     "QuestRepeat": 0,
     "QuestCompletion": 0,
-    "Title": "Obtain the Zybot",
+    "Title": "Help from Ethel",
     "Text": "The Commander has asked you to find something to help you navigate and defend yourself while outside of the bunker. He recommended speaking to Ethel to see if she could help.",
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 0b,
@@ -28,7 +28,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1469837847611L,
+        "TimePast": 1523658139126L,
         "Time": 0L,
         "Subject": ""
     },

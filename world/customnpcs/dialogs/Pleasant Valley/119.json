@@ -6,8 +6,8 @@
             "OptionSlot": 0,
             "Option": {
                 "DialogCommand": "",
-                "Dialog": 120,
-                "Title": "I have just come out of Vault 719 and I am searching for a power supply. Our bunker is in poor shape.",
+                "Dialog": 167,
+                "Title": "I have just come out of Bunker 719 and I am searching for a power supply. Our bunker is in poor shape.",
                 "DialogColor": 3469364,
                 "OptionType": 1
             }
@@ -32,7 +32,7 @@
     "OptionFaction1Points": 100,
     "DialogDisableEsc": 0b,
     "AvailabilityFaction": 0,
-    "DialogTitle": "Guard",
+    "DialogTitle": "Guard I",
     "AvailabilityDialog": 1,
     "AvailabilityFaction2": 0,
     "AvailabilityFactionId": -1,
@@ -57,7 +57,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1486239201151L,
+        "TimePast": 1524070136149L,
         "Time": 0L,
         "Subject": ""
     }

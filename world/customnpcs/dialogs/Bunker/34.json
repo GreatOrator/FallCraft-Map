@@ -1,13 +1,13 @@
 {
     "DialogShowWheel": 0b,
-    "AvailabilityQuestId": -1,
+    "AvailabilityQuestId": 20,
     "Options": [
         {
             "OptionSlot": 0,
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 35,
-                "Title": "Done, I have a pistol here and some ammo so that should be enough of a threat if I run into something out there.",
+                "Title": "Done, I have a bat and a pistol here plus some ammo so that should be enough of a threat if I run into something out there.",
                 "DialogColor": 850474,
                 "OptionType": 1
             }
@@ -15,10 +15,10 @@
     ],
     "DialogHideNPC": 0b,
     "AvailabilityFactionStance": 0,
-    "AvailabilityQuest": 0,
+    "AvailabilityQuest": 1,
     "AvailabilityDialog4": 0,
     "AvailabilityDialog3": 0,
-    "AvailabilityQuest2": 0,
+    "AvailabilityQuest2": 2,
     "AvailabilityQuest3": 0,
     "AvailabilityQuest4": 0,
     "ModRev": 16,
@@ -43,7 +43,7 @@
     "DialogText": "I hope you aren’t back here to bug me about going outside again, I told you that you need something to protect yourself…",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
-    "AvailabilityQuest2Id": -1,
+    "AvailabilityQuest2Id": 21,
     "AvailabilityDialog2Id": -1,
     "AvailabilityDialog3Id": -1,
     "AvailabilityDialog4Id": -1,
@@ -57,7 +57,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1473389329033L,
+        "TimePast": 1523664161275L,
         "Time": 0L,
         "Subject": ""
     }

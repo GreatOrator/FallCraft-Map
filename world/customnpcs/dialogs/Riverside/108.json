@@ -40,7 +40,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Time?!!! I gave him a month. Each time I came to him, he pushed it aside. He said we simply can’t charge more…..He doesn’t understand the situation….he came here and saw the supplies...you saw how little we have downstairs, yes…..he is blind!! So, I decided to teach him a lesson….I....shouldn’t have told you that.",
+    "DialogText": "Time?!!! I gave him a month. I also don't have the time to leave this project to go scouting. The town needs to do its part. Each time I came to him, he pushed it aside. He said we simply can’t charge more…..He doesn’t understand the situation….he came here and saw the supplies...you saw how little we have downstairs, yes…..he is blind!! So, I decided to teach him a lesson….I....shouldn’t have told you that.",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
@@ -57,7 +57,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1473786099731L,
+        "TimePast": 1523813841417L,
         "Time": 0L,
         "Subject": ""
     }

@@ -1,0 +1,56 @@
+{
+    "CompleterNpc": "RW",
+    "NextQuestId": 47,
+    "RandomReward": 0b,
+    "QuestRepeat": 0,
+    "QuestCompletion": 1,
+    "Title": "Finding Denis I",
+    "Text": "",
+    "QuestFactionPoints": {
+        "DecreaseFaction1Points": 0b,
+        "OptionFaction2Points": 100,
+        "OptionFactions1": -1,
+        "OptionFactions2": -1,
+        "OptionFaction1Points": 100,
+        "DecreaseFaction2Points": 0b
+    },
+    "RewardExp": 0,
+    "QuestCommand": "",
+    "QuestDialogs": [
+    ],
+    "ModRev": 16,
+    "Type": 1,
+    "QuestMail": {
+        "Sender": "",
+        "BeenRead": 0b,
+        "Message": {
+        },
+        "MailItems": [
+        ],
+        "MailQuest": -1,
+        "TimePast": 1524024129917L,
+        "Time": 0L,
+        "Subject": ""
+    },
+    "Rewards": {
+        "NpcMiscInv": [
+            {
+                "Slot": 0b,
+                "id": "minecraft:writable_book",
+                "Count": 1b,
+                "tag": {
+                    "pages": [
+                        "Denis, man, where have you been? Why did you leave me here? I have been stuck in this bunker hostage to my own creations. I could have used your help. 
+                              Wait.....you left because I created clones. I am so sorry....will you ",
+                        "ever forgive me?
+
+Your buddy, Fitz"
+                    ]
+                },
+                "Damage": 0s
+            }
+        ]
+    },
+    "CompleteText": "",
+    "NextQuestTitle": "Finding Denis II"
+}

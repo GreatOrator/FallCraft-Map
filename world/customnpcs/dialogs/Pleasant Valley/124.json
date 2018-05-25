@@ -40,7 +40,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Power supplies are not easy to come by in the wasteland. We use wind power...not as efficient or fast, but it gets the job done well enough. Your fellow vault dwellers would be welcomed here in town if you could convince them to leave the bunker. We have plenty of room for new citizens and plenty of work to do as well!",
+    "DialogText": "Power supplies are not easy to come by in the wasteland. We use wind power...not as efficient or fast, but it gets the job done well enough. Your fellow bunker dwellers would be welcomed here in town if you could convince them to leave the bunker. We have plenty of room for new citizens and plenty of work to do as well!",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
@@ -57,7 +57,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1484789655306L,
+        "TimePast": 1526748741369L,
         "Time": 0L,
         "Subject": ""
     }

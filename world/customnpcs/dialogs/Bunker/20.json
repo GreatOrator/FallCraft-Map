@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 21,
-                "Title": "The rule book was written almost 100 years ago.  I don’t think they expected any of us to have been in here that long. If I head out there I can look to see if there are other survivors and bring back some more power cells. Worst case scenario it is only me that will be affected by going out and the rest of you will still be safe in here.",
+                "Title": "The rule book was written over 100 years ago.  I don’t think they expected any of us to have been in here that long. If I head out there I can look to see if there are other survivors or members of the Project and bring back some more power cells. Worst case scenario it is only me that will be affected by going out and the rest of you will still be safe in here.",
                 "DialogColor": 850474,
                 "OptionType": 1
             }
@@ -57,7 +57,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1473389293932L,
+        "TimePast": 1523664126524L,
         "Time": 0L,
         "Subject": ""
     }

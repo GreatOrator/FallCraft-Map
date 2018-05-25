@@ -1,0 +1,42 @@
+{
+    "CompleterNpc": "Gharis",
+    "NextQuestId": 33,
+    "QuestLocation3": "",
+    "RandomReward": 0b,
+    "QuestLocation2": "",
+    "QuestRepeat": 0,
+    "QuestCompletion": 1,
+    "Title": "Locating the Dam",
+    "Text": "Dartron told you to locate the whereabouts of the dam that used the supply power to the region. Once there, he asked that you figure out how to turn the power back on without getting yourself killed.",
+    "QuestFactionPoints": {
+        "DecreaseFaction1Points": 0b,
+        "OptionFaction2Points": 100,
+        "OptionFactions1": -1,
+        "OptionFactions2": -1,
+        "OptionFaction1Points": 100,
+        "DecreaseFaction2Points": 0b
+    },
+    "RewardExp": 0,
+    "QuestCommand": "",
+    "ModRev": 16,
+    "Type": 3,
+    "QuestMail": {
+        "Sender": "",
+        "BeenRead": 0b,
+        "Message": {
+        },
+        "MailItems": [
+        ],
+        "MailQuest": -1,
+        "TimePast": 1524972813537L,
+        "Time": 0L,
+        "Subject": ""
+    },
+    "Rewards": {
+        "NpcMiscInv": [
+        ]
+    },
+    "CompleteText": "You found the dam. Now to cautiously search for a way to turn the power on.",
+    "NextQuestTitle": "Mainframe",
+    "QuestLocation": "Skaguay Dam"
+}

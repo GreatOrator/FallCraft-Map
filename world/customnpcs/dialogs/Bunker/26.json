@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 27,
-                "Title": "Ok, I’ll go talk to him and see if he can help me out. Thanks again for the PPC.",
+                "Title": "Ok, I’ll go talk to him and see if he can help me out. Thanks again for the bat.",
                 "DialogColor": 850474,
                 "OptionType": 1
             }
@@ -57,7 +57,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1468688765360L,
+        "TimePast": 1523413012063L,
         "Time": 0L,
         "Subject": ""
     }

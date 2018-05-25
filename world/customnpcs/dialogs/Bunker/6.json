@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 7,
-                "Title": "I am going to head out there someday and find out for myself, you should come with me Ethel. We could see it both together.",
+                "Title": "I am going to head out there someday and find out for myself, you should come with me Ethel. We could see it together.",
                 "DialogColor": 850474,
                 "OptionType": 1
             }
@@ -40,7 +40,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Oh I very much doubt it, with no one to tend the gardens and sweep the streets I imagine it will be a terrible mess now. I often think about that place and what it would look like now.",
+    "DialogText": "No, my dear, a very bad war broke out and most likely destroyed much of what existed before. I wouldn't recognize the world anymore I imagine. It is a very harsh world out there with many diseases - like the one that infected our scouts 20 years ago. ",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
@@ -57,7 +57,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1473388797732L,
+        "TimePast": 1527181412427L,
         "Time": 0L,
         "Subject": ""
     }

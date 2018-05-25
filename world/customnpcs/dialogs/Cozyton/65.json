@@ -40,7 +40,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "	Even our women are trained to defend the town. Our leader says if we become complacent, we welcome our own destruction. ",
+    "DialogText": "Even our women are trained to defend the town. Our leader says if we become complacent, we welcome our own destruction. ",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
@@ -57,7 +57,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1471731651675L,
+        "TimePast": 1524937508587L,
         "Time": 0L,
         "Subject": ""
     }

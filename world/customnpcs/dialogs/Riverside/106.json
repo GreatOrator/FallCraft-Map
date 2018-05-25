@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 107,
-                "Title": "Seems a reasonable concern…",
+                "Title": "Seems a reasonable concern...however we aren't helping people for money.",
                 "DialogColor": 523813,
                 "OptionType": 1
             }
@@ -57,7 +57,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1473785943381L,
+        "TimePast": 1523813572767L,
         "Time": 0L,
         "Subject": ""
     }

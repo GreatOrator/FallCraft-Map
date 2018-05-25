@@ -40,7 +40,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "No, completely out of the question. The rulebook states that no person should be allowed out of the bunker until the signal is given.  Have you heard or seen a signal? I didn’t think so.",
+    "DialogText": "No, completely out of the question. The last time I let people out, they came back diseased and infected the whole bunker. If Brion hadn't created the antiviral, none of us would be here. The rulebook states that in an emergency such as we had, we need to make contact with the other Project teams before venturing out. As of right now, there has been no contact - not for lack of trying.",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
@@ -57,7 +57,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1468687979111L,
+        "TimePast": 1527181689676L,
         "Time": 0L,
         "Subject": ""
     }

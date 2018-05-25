@@ -21,6 +21,16 @@
                 "DialogColor": 7529192,
                 "OptionType": 0
             }
+        },
+        {
+            "OptionSlot": 2,
+            "Option": {
+                "DialogCommand": "",
+                "Dialog": 307,
+                "Title": "Can you tell me about the area?",
+                "DialogColor": 15259513,
+                "OptionType": 1
+            }
         }
     ],
     "DialogHideNPC": 0b,
@@ -67,7 +77,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1471732221125L,
+        "TimePast": 1524937556036L,
         "Time": 0L,
         "Subject": ""
     }

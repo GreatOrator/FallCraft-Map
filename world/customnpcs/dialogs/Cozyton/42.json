@@ -11,6 +11,16 @@
                 "DialogColor": 15323215,
                 "OptionType": 1
             }
+        },
+        {
+            "OptionSlot": 1,
+            "Option": {
+                "DialogCommand": "",
+                "Dialog": 296,
+                "Title": "Did two men from Pleasant Valley come this way?",
+                "DialogColor": 11702762,
+                "OptionType": 1
+            }
         }
     ],
     "DialogHideNPC": 0b,
@@ -44,7 +54,7 @@
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
-    "AvailabilityDialog2Id": 51,
+    "AvailabilityDialog2Id": 47,
     "AvailabilityDialog3Id": -1,
     "AvailabilityDialog4Id": -1,
     "AvailabilityMinPlayerLevel": 0,
@@ -57,7 +67,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1471731486976L,
+        "TimePast": 1524937390836L,
         "Time": 0L,
         "Subject": ""
     }

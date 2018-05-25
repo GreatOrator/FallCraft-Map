@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 110,
-                "Title": "Did you contaminate their water supply?",
+                "Title": "You are way off mission. Did you contaminate their water supply?",
                 "DialogColor": 523813,
                 "OptionType": 1
             }
@@ -57,7 +57,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1473786117931L,
+        "TimePast": 1523813870917L,
         "Time": 0L,
         "Subject": ""
     }

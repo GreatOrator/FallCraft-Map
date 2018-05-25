@@ -23,7 +23,7 @@
     "AvailabilityQuest4": 0,
     "ModRev": 16,
     "DecreaseFaction1Points": 0b,
-    "DialogQuest": -1,
+    "DialogQuest": 29,
     "AvailabilityDialog2": 0,
     "OptionFactions1": -1,
     "AvailabilityDayTime": 0,
@@ -40,7 +40,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "	Nothing….we have plenty of food here to share with all!",
+    "DialogText": "Nothing….we have plenty of food here to share with all!",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
@@ -57,7 +57,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1471730381925L,
+        "TimePast": 1523737710994L,
         "Time": 0L,
         "Subject": ""
     }

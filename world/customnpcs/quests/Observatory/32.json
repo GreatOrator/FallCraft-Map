@@ -1,0 +1,153 @@
+{
+    "CompleterNpc": "Dartron",
+    "NextQuestId": -1,
+    "RandomReward": 1b,
+    "QuestRepeat": 0,
+    "QuestCompletion": 0,
+    "IgnoreNBT": 0b,
+    "Title": "Entertainment",
+    "Text": "Dartron said you could look around the place. He told his brethren to leave you alone. He also mentioned there may be some movies in a crate somewhere.",
+    "QuestFactionPoints": {
+        "DecreaseFaction1Points": 0b,
+        "OptionFaction2Points": 100,
+        "OptionFactions1": -1,
+        "OptionFactions2": -1,
+        "OptionFaction1Points": 100,
+        "DecreaseFaction2Points": 0b
+    },
+    "RewardExp": 0,
+    "QuestCommand": "",
+    "ModRev": 16,
+    "Type": 0,
+    "QuestMail": {
+        "Sender": "",
+        "BeenRead": 0b,
+        "Message": {
+        },
+        "MailItems": [
+        ],
+        "MailQuest": -1,
+        "TimePast": 1525645615262L,
+        "Time": 0L,
+        "Subject": ""
+    },
+    "IgnoreDamage": 0b,
+    "Rewards": {
+        "NpcMiscInv": [
+            {
+                "Slot": 0b,
+                "id": "deci:deagleMag",
+                "Count": 1b,
+                "tag": {
+                    "ammo": 9
+                },
+                "Damage": 0s
+            },
+            {
+                "Slot": 1b,
+                "id": "deci:vz24Mag",
+                "Count": 4b,
+                "tag": {
+                    "ammo": 24
+                },
+                "Damage": 0s
+            },
+            {
+                "Slot": 2b,
+                "id": "deci:ItemPoliceBaton",
+                "Count": 1b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 3b,
+                "id": "deci:deagleMag",
+                "Count": 3b,
+                "tag": {
+                    "ammo": 9
+                },
+                "Damage": 0s
+            },
+            {
+                "Slot": 4b,
+                "id": "deci:12gauge_box",
+                "Count": 1b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 5b,
+                "id": "deci:m4a4",
+                "Count": 1b,
+                "tag": {
+                    "ammo": 0,
+                    "mgItem": 0b,
+                    "gripAttach": "",
+                    "skin": "",
+                    "blood": 0,
+                    "mode": 0,
+                    "chamberAttach": "",
+                    "sightAttach": "",
+                    "firing": 0b,
+                    "barrelAttach": "",
+                    "stockAttach": "",
+                    "skinEng": "",
+                    "bolted": 1b,
+                    "mud": 0
+                },
+                "Damage": 0s
+            },
+            {
+                "Slot": 6b,
+                "id": "deci:vz24",
+                "Count": 1b,
+                "tag": {
+                    "ammo": 0,
+                    "mgItem": 0b,
+                    "gripAttach": "",
+                    "skin": "",
+                    "blood": 0,
+                    "mode": 0,
+                    "chamberAttach": "",
+                    "sightAttach": "",
+                    "firing": 0b,
+                    "barrelAttach": "",
+                    "stockAttach": "",
+                    "skinEng": "",
+                    "bolted": 1b,
+                    "mud": 0
+                },
+                "Damage": 0s
+            },
+            {
+                "Slot": 7b,
+                "id": "deci:ItemRadio",
+                "Count": 1b,
+                "tag": {
+                    "frequency": 50
+                },
+                "Damage": 0s
+            },
+            {
+                "Slot": 8b,
+                "id": "deci:vz52Mag",
+                "Count": 4b,
+                "tag": {
+                    "ammo": 10
+                },
+                "Damage": 0s
+            }
+        ]
+    },
+    "Items": {
+        "NpcMiscInv": [
+            {
+                "Slot": 0b,
+                "id": "ComputerCraft:treasureDisk",
+                "Count": 1b,
+                "Damage": 0s
+            }
+        ]
+    },
+    "LeaveItems": 1b,
+    "CompleteText": "That's the best moving picture ever!",
+    "NextQuestTitle": ""
+}

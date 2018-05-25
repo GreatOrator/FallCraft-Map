@@ -1,0 +1,151 @@
+{
+    "CompleterNpc": "Elder Snoop",
+    "NextQuestId": -1,
+    "RandomReward": 1b,
+    "QuestRepeat": 0,
+    "QuestCompletion": 0,
+    "Title": "Help with Defense",
+    "Text": "Foreman Skiddles has asked that you approach the Iron Legion and see if you can secure an alliance for defense of the mine.",
+    "QuestFactionPoints": {
+        "DecreaseFaction1Points": 0b,
+        "OptionFaction2Points": 100,
+        "OptionFactions1": -1,
+        "OptionFactions2": -1,
+        "OptionFaction1Points": 100,
+        "DecreaseFaction2Points": 0b
+    },
+    "RewardExp": 0,
+    "QuestCommand": "",
+    "QuestDialogs": [
+    ],
+    "ModRev": 16,
+    "Type": 1,
+    "QuestMail": {
+        "Sender": "",
+        "BeenRead": 0b,
+        "Message": {
+        },
+        "MailItems": [
+        ],
+        "MailQuest": -1,
+        "TimePast": 1526183866158L,
+        "Time": 0L,
+        "Subject": ""
+    },
+    "Rewards": {
+        "NpcMiscInv": [
+            {
+                "Slot": 0b,
+                "id": "deci:kar98k",
+                "Count": 1b,
+                "tag": {
+                    "ammo": 0,
+                    "mgItem": 0b,
+                    "gripAttach": "",
+                    "skin": "",
+                    "blood": 0,
+                    "mode": 0,
+                    "chamberAttach": "",
+                    "sightAttach": "",
+                    "firing": 0b,
+                    "barrelAttach": "",
+                    "stockAttach": "",
+                    "skinEng": "",
+                    "bolted": 1b,
+                    "mud": 0
+                },
+                "Damage": 0s
+            },
+            {
+                "Slot": 1b,
+                "id": "deci:l115a3",
+                "Count": 1b,
+                "tag": {
+                    "ammo": 0,
+                    "mgItem": 0b,
+                    "gripAttach": "",
+                    "skin": "",
+                    "blood": 0,
+                    "mode": 0,
+                    "chamberAttach": "",
+                    "sightAttach": "",
+                    "firing": 0b,
+                    "barrelAttach": "",
+                    "stockAttach": "",
+                    "skinEng": "",
+                    "bolted": 1b,
+                    "mud": 0
+                },
+                "Damage": 0s
+            },
+            {
+                "Slot": 2b,
+                "id": "deci:4x",
+                "Count": 1b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 3b,
+                "id": "deci:m16a1Mag",
+                "Count": 3b,
+                "tag": {
+                    "ammo": 20
+                },
+                "Damage": 0s
+            },
+            {
+                "Slot": 4b,
+                "id": "deci:m16a1",
+                "Count": 1b,
+                "tag": {
+                    "ammo": 0,
+                    "mgItem": 0b,
+                    "gripAttach": "",
+                    "skin": "",
+                    "blood": 0,
+                    "mode": 0,
+                    "chamberAttach": "",
+                    "sightAttach": "",
+                    "firing": 0b,
+                    "barrelAttach": "",
+                    "stockAttach": "",
+                    "skinEng": "",
+                    "bolted": 1b,
+                    "mud": 0
+                },
+                "Damage": 0s
+            },
+            {
+                "Slot": 5b,
+                "id": "deci:marineurbanBoots",
+                "Count": 1b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 6b,
+                "id": "deci:uziMag",
+                "Count": 3b,
+                "tag": {
+                    "ammo": 32
+                },
+                "Damage": 0s
+            },
+            {
+                "Slot": 7b,
+                "id": "deci:marineVest",
+                "Count": 1b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 8b,
+                "id": "deci:ItemPlateCarrier_Gray",
+                "Count": 1b,
+                "tag": {
+                },
+                "Damage": 0s
+            }
+        ]
+    },
+    "CompleteText": "I have better things to do than defending a mining operation.",
+    "NextQuestTitle": ""
+}

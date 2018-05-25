@@ -383,7 +383,7 @@ end
 function readWords(fileName)
 local dict = {}
 --local h = fs.open(fileName,"r")
-local wordlist = "teagan, jerle, snoop, modii, morgan"
+local wordlist = "teagan, jerle, snoop, modii, haliee, bentle, mikey, kebunny"
 
 --for word in string.gmatch(h.readAll(), "%a+") do table.insert(dict,word) end
 for word in string.gmatch(wordlist, "%a+") do table.insert(dict,word) end
