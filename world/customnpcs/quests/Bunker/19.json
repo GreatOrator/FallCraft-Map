@@ -1,0 +1,53 @@
+{
+    "CompleterNpc": "Sarah Wilkes",
+    "NextQuestId": 20,
+    "RandomReward": 0b,
+    "QuestRepeat": 0,
+    "QuestCompletion": 0,
+    "Title": "Food for the Road",
+    "Text": "Jeeves said to get some food from Sarah Wilkes in the botany lab.",
+    "QuestFactionPoints": {
+        "DecreaseFaction1Points": 0b,
+        "OptionFaction2Points": 100,
+        "OptionFactions1": -1,
+        "OptionFactions2": -1,
+        "OptionFaction1Points": 100,
+        "DecreaseFaction2Points": 0b
+    },
+    "RewardExp": 0,
+    "QuestCommand": "",
+    "QuestDialogs": [
+    ],
+    "ModRev": 16,
+    "Type": 1,
+    "QuestMail": {
+        "Sender": "",
+        "BeenRead": 0b,
+        "Message": {
+        },
+        "MailItems": [
+        ],
+        "MailQuest": -1,
+        "TimePast": 1523663674875L,
+        "Time": 0L,
+        "Subject": ""
+    },
+    "Rewards": {
+        "NpcMiscInv": [
+            {
+                "Slot": 0b,
+                "id": "deci:ItemBottledWater",
+                "Count": 5b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 1b,
+                "id": "deci:ItemCannedKebab",
+                "Count": 5b,
+                "Damage": 0s
+            }
+        ]
+    },
+    "CompleteText": "You are heading out? You will need some food. Not sure what you'll find out there and most of its rotten by now. You should really stop by and see our medic, Brion. He can give you a few medical items you might need.",
+    "NextQuestTitle": "Much Needed Medicine "
+}

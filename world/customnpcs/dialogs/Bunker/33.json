@@ -23,7 +23,7 @@
     "AvailabilityQuest4": 0,
     "ModRev": 16,
     "DecreaseFaction1Points": 0b,
-    "DialogQuest": -1,
+    "DialogQuest": 14,
     "AvailabilityDialog2": 0,
     "OptionFactions1": -1,
     "AvailabilityDayTime": 0,
@@ -40,7 +40,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Sure youngun’, you’ll likely find power cells down in the area that was once Pleasant Valley I ‘spect. Now go tell ol’ bull head you done got what he asked an make him stick to his word. ",
+    "DialogText": "Sure youngun’, you’ll likely find power cells down in the area that was once Pleasant Valley I ‘spect. Jeeves should be able to give you something to navigate. Then go tell ol’ bull head you done got what he asked an make him stick to his word. ",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
@@ -57,7 +57,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1473389254332L,
+        "TimePast": 1527182107576L,
         "Time": 0L,
         "Subject": ""
     }

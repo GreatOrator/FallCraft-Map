@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 22,
-                "Title": "But if we don’t do something about the power and water we will all die anyway.  If I can talk to Ethel and Ol’ George again and get them to help me will you agree to let me at least try to help out?",
+                "Title": "What future?! If we don’t do something about the power and water we will all die anyway.  If I can talk to Ethel and Ol’ George again and get them to help me will you agree to let me at least try to help out?",
                 "DialogColor": 850474,
                 "OptionType": 1
             }
@@ -40,7 +40,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "You haven’t lived a day outside of this vault though, how would you know where you are going? What would you defend yourself with? No, it is too risky and we can’t jeopardise the future of the rest of us because of your whim to go off adventuring.",
+    "DialogText": "You haven’t lived a day outside of this bunker though, how would you know where you are going? What would you defend yourself with? No, it is too risky and we can’t jeopardise the future of the rest of us because of your whim to go off adventuring.",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
@@ -57,7 +57,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1473389299583L,
+        "TimePast": 1523664135925L,
         "Time": 0L,
         "Subject": ""
     }

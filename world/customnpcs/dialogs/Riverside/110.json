@@ -15,11 +15,11 @@
     "DecreaseFaction1Points": 1b,
     "DialogQuest": 9,
     "AvailabilityDialog2": 0,
-    "OptionFactions1": 1,
+    "OptionFactions1": 8,
     "AvailabilityDayTime": 0,
     "OptionFactions2": -1,
     "AvailabilityFaction2Id": -1,
-    "OptionFaction1Points": 200,
+    "OptionFaction1Points": 500,
     "DialogDisableEsc": 0b,
     "AvailabilityFaction": 0,
     "DialogTitle": "LynneTelfer VII",
@@ -47,7 +47,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1473786935281L,
+        "TimePast": 1524528907955L,
         "Time": 0L,
         "Subject": ""
     }

@@ -6,7 +6,7 @@
             "OptionSlot": 0,
             "Option": {
                 "DialogCommand": "",
-                "Dialog": 146,
+                "Dialog": 151,
                 "Title": "It certainly seems that way. Do you have a resident prankster or trouble maker in town.",
                 "DialogColor": 3469364,
                 "OptionType": 1
@@ -57,7 +57,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1484800502406L,
+        "TimePast": 1526748773068L,
         "Time": 0L,
         "Subject": ""
     }

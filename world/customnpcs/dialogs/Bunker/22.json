@@ -30,7 +30,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "I can’t see what they are going to do but you aren’t going to leave me alone until I agree are you?  I am too busy to let some silly fantasy get in my way today.  Ok, if you get something to defend yourself with and something to help you navigate your way to the town I will consider it.  Go and talk to Ethel and see what she can do to help. Now be off with you!",
+    "DialogText": "I can’t see what they are going to do but you aren’t going to leave me alone until I agree are you?  I am too busy to let some silly fantasy get in my way today.  Ok, if you get something to defend yourself with and something to help you navigate your way to the town I will consider it.  Go and talk to Ethel and see what she can do to help. Now off with you!",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
@@ -47,7 +47,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1469837837461L,
+        "TimePast": 1523664154977L,
         "Time": 0L,
         "Subject": ""
     }

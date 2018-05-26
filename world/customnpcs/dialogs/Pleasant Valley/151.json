@@ -40,7 +40,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "No we have never had any major issues before. Sure there have been disputes in the past….so-n-so’s barrel is on my lawn…..so-n-so’s dog is digging in my garden, but nothing a simple “car ride home” wouldn’t fix – if you know what I mean. I have been talking with Jack Hanson and he says he has seen people coming in and out of the abandoned mineshaft nearby. Perhaps they are not scavengers but thieves?",
+    "DialogText": "No we have never had any major issues before. Sure there have been disputes in the past….so-n-so’s barrel is on my lawn…..so-n-so’s dog is digging in my garden, but nothing a simple “bus ride home” wouldn’t fix – if you know what I mean. I have been talking with Jack Hanson and he says he has seen people coming in and out of the abandoned mineshaft nearby. Perhaps they are not scavengers but thieves?",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
@@ -57,7 +57,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1484800465406L,
+        "TimePast": 1526748798668L,
         "Time": 0L,
         "Subject": ""
     }

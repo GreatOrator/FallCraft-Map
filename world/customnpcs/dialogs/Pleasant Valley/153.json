@@ -13,7 +13,7 @@
     "AvailabilityQuest4": 0,
     "ModRev": 16,
     "DecreaseFaction1Points": 0b,
-    "DialogQuest": -1,
+    "DialogQuest": 17,
     "AvailabilityDialog2": 0,
     "OptionFactions1": -1,
     "AvailabilityDayTime": 0,
@@ -30,7 +30,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "I have a suspicion that I am sending you into the lion’s den. I commend your bravery. Here is a little something to buy the supplies you need….it’s the least I can do. ",
+    "DialogText": "I have a suspicion that I am sending you into the lion’s den. I commend your bravery. Here, take this old battery and sell it at the general store to get some caps….it’s the least I can do. Also, take this device. It is a much better navigation device. Just turn on the screen (shift right-click with it in your hand) and type in coordinates for places you have found. You can lock those coordinates in and then use the device to fast travel to already known areas.",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
@@ -47,7 +47,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1485217807255L,
+        "TimePast": 1526748722319L,
         "Time": 0L,
         "Subject": ""
     }

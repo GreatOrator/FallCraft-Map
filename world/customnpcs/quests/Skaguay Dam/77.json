@@ -1,0 +1,45 @@
+{
+    "CompleterNpc": "Gharis",
+    "NextQuestId": 90,
+    "RandomReward": 0b,
+    "QuestRepeat": 0,
+    "QuestCompletion": 1,
+    "Title": "Lead Engineer",
+    "Text": "You see someone up in the control room looking down at you with glowing eyes.",
+    "QuestFactionPoints": {
+        "DecreaseFaction1Points": 0b,
+        "OptionFaction2Points": 100,
+        "OptionFactions1": -1,
+        "OptionFactions2": -1,
+        "OptionFaction1Points": 100,
+        "DecreaseFaction2Points": 0b
+    },
+    "RewardExp": 0,
+    "QuestCommand": "",
+    "QuestDialogs": [
+        {
+            "Value": 1,
+            "Slot": "Bentley"
+        }
+    ],
+    "ModRev": 16,
+    "Type": 4,
+    "QuestMail": {
+        "Sender": "",
+        "BeenRead": 0b,
+        "Message": {
+        },
+        "MailItems": [
+        ],
+        "MailQuest": -1,
+        "TimePast": 1526146248358L,
+        "Time": 0L,
+        "Subject": ""
+    },
+    "Rewards": {
+        "NpcMiscInv": [
+        ]
+    },
+    "CompleteText": "It is unfortunate you had to kill the tormented shell formerly known as Lead Engineer Bentley. Grab the bootup disk needed for the mainframe computer.",
+    "NextQuestTitle": "Bootup Disk"
+}

@@ -40,7 +40,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "	The men go out to hunt wild animals much like our ancestors did thousands of years ago. Isaiah tells us this is how we will keep fit and healthy. Animals in pens are not as healthy as those who are free range.",
+    "DialogText": "The men go out to hunt wild animals much like our ancestors did thousands of years ago. Isaiah tells us this is how we will keep fit and healthy. Animals in pens are not as healthy as those who are free range.",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
@@ -57,7 +57,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1471730353325L,
+        "TimePast": 1524937504935L,
         "Time": 0L,
         "Subject": ""
     }

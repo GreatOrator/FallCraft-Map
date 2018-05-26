@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 36,
-                "Title": "I have that covered too, Ethel gave me this PPC and it will point me where I need to go.  It is in fully working order as is the weapon so you have to stick by your word and let me go.",
+                "Title": "I have that covered too, Jeeves gave me a navigator and it will point me where I need to go.  It is in fully working order as is the weapon so you have to stick by your word and let me go.",
                 "DialogColor": 850474,
                 "OptionType": 1
             }
@@ -57,7 +57,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1473389300332L,
+        "TimePast": 1523664164275L,
         "Time": 0L,
         "Subject": ""
     }

@@ -40,7 +40,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "	I am the only one allowed inside the freezer. I am in charge of distributing the meat. If we allowed everyone access we wouldn’t be able to track the consumption rate.",
+    "DialogText": "I am the only one allowed inside the freezer. I am in charge of distributing the meat. If we allowed everyone access we wouldn’t be able to track the consumption rate.",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
@@ -57,7 +57,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1471733003227L,
+        "TimePast": 1523737366194L,
         "Time": 0L,
         "Subject": ""
     }

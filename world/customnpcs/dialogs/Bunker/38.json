@@ -23,7 +23,7 @@
     "AvailabilityQuest4": 0,
     "ModRev": 16,
     "DecreaseFaction1Points": 0b,
-    "DialogQuest": -1,
+    "DialogQuest": 15,
     "AvailabilityDialog2": 0,
     "OptionFactions1": -1,
     "AvailabilityDayTime": 0,
@@ -40,7 +40,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Well it's most likely in a pretty bad state with a number of dangerous creatures and probably dangerous people out there too. I think your safest bet is to head towards the area that was once Pleasant Valley which is not too far from here and see what has happened to the town.  Be careful though, you never know what they might be like if there are any folks even left alive out there.",
+    "DialogText": "Well it's most likely in a pretty bad state with a number of dangerous creatures and probably dangerous people out there too. George is right, your safest bet is to head towards the area that was once Pleasant Valley which is not too far from here and see what has happened to the town.  Be careful though, you never know what they might be like if there are any folks even left alive out there.",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
@@ -57,7 +57,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1473389520232L,
+        "TimePast": 1527182772177L,
         "Time": 0L,
         "Subject": ""
     }

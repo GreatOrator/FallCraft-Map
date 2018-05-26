@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 5,
-                "Title": "I’m curious about what is outside the vault. What can you remember of the world before you came in here?",
+                "Title": "I’m curious about what is outside the bunker. What can you remember of the world before you came in here?",
                 "DialogColor": 850474,
                 "OptionType": 1
             }
@@ -67,7 +67,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1473387378182L,
+        "TimePast": 1523648632575L,
         "Time": 0L,
         "Subject": ""
     }

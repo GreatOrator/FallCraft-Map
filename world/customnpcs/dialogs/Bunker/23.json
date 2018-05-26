@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 24,
-                "Title": "I did and the news wasn’t good I’m afraid. He told me that the bunker is running low on power cells and that without them we wouldn’t last very long. He asked me to persuade the commander to let me go out and look for some.",
+                "Title": "The news isn't good I’m afraid. He told me that the bunker is running low on power cells and that without them we wouldn’t last very long. He asked me to persuade the commander to let me go out and look for some.",
                 "DialogColor": 850474,
                 "OptionType": 1
             }
@@ -33,14 +33,14 @@
     "DialogDisableEsc": 0b,
     "AvailabilityFaction": 0,
     "DialogTitle": "Help from Ethel I",
-    "AvailabilityDialog": 0,
+    "AvailabilityDialog": 2,
     "AvailabilityFaction2": 0,
     "AvailabilityFactionId": -1,
     "AvailabilityFaction2Stance": 0,
     "DialogCommand": "",
-    "AvailabilityDialogId": -1,
+    "AvailabilityDialogId": 27,
     "OptionFaction2Points": 100,
-    "DialogText": "Hi again youngun’, did you see Ol’ George about my water and lights?",
+    "DialogText": "What did Ol’ George say about my water and lights?",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
@@ -57,7 +57,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1473388816383L,
+        "TimePast": 1523658232825L,
         "Time": 0L,
         "Subject": ""
     }

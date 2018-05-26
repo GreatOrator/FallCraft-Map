@@ -40,7 +40,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Talk?! About what? I don’t have time to talk…",
+    "DialogText": "Talk?! About what? I don’t have time to talk…As you know our mission is too provide clean water to the Wastes.",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
@@ -57,7 +57,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1473785946981L,
+        "TimePast": 1523813515069L,
         "Time": 0L,
         "Subject": ""
     }

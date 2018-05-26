@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 117,
-                "Title": "It doesn’t have to be a fight. I could try and reason with her or at least be a mediator between the two of you.",
+                "Title": "It doesn’t have to be a fight. I could try and reason with her since I am part of The Davis Project too. Or at least be a mediator between the two of you.",
                 "DialogColor": 915755,
                 "OptionType": 1
             }
@@ -40,7 +40,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "<Sigh> Lynne has been an asset to our community for years and I had hoped to resolve this quarrel peacefully.",
+    "DialogText": "<Sigh> Lynne has been an asset to our community for years and I had hoped to resolve this quarrel peacefully. She is part of the group called The Davis Project. They are apparently people who lived before the darkness and slept in caves until it was time to come out and help the Wastelanders. Like I said, we have had no issues before.",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
@@ -57,7 +57,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1473788584181L,
+        "TimePast": 1523805393467L,
         "Time": 0L,
         "Subject": ""
     }

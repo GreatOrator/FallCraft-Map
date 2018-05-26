@@ -40,7 +40,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "You know….. HeatherReneeB has always looked at my dolls with envy. She never had any dolls of her own before. I bet you she did it…..yeah…..I would talk to her. I am going to spend all day laying traps and locking up all the windows and doors. Heather won’t be able to sneak in anymore!",
+    "DialogText": "You know….. HeatherReneeB has always looked at my dolls with envy. She never had any dolls of her own before. I bet you she did it…..yeah…..I would talk to her. I am going to spend all day laying traps and locking up all the windows and doors. Heather won’t be able to sneak in anymore! Or...or...I might just take a nap...hehe...yeah....a nap will do it.",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
@@ -57,7 +57,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1484858531356L,
+        "TimePast": 1523417979163L,
         "Time": 0L,
         "Subject": ""
     }

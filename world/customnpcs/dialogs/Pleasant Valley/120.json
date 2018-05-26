@@ -32,7 +32,7 @@
     "OptionFaction1Points": 100,
     "DialogDisableEsc": 0b,
     "AvailabilityFaction": 0,
-    "DialogTitle": "Guard II",
+    "DialogTitle": "Guard III",
     "AvailabilityDialog": 0,
     "AvailabilityFaction2": 0,
     "AvailabilityFactionId": -1,
@@ -40,7 +40,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Vault 719?! I didn’t think anyone was still left in there. Well we have a variety of trade shops inside. Perhaps one of the vendors has found a power supply to sell. Watch yourself though. There has been a lot of mysterious thievery going on inside the walls.",
+    "DialogText": "Well welcome to the Wastes - there is plenty of work to do. Inside we have a variety of trade shops. Perhaps one of the vendors has found a power supply to sell. Watch yourself though. There has been a lot of mysterious thievery going on inside the walls.",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
@@ -57,7 +57,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1484788499156L,
+        "TimePast": 1524070186200L,
         "Time": 0L,
         "Subject": ""
     }

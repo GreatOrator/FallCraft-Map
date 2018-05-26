@@ -7,7 +7,7 @@
     "QuestRepeat": 0,
     "QuestCompletion": 1,
     "Title": "Finding Lynne",
-    "Text": "",
+    "Text": "Search around the factory for a better entrance.",
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 0b,
         "OptionFaction2Points": 100,
@@ -28,7 +28,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1473790899781L,
+        "TimePast": 1525645730860L,
         "Time": 0L,
         "Subject": ""
     },

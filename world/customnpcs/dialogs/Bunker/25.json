@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 26,
-                "Title": "Thanks Ethel, I am sure it will be very useful. I don’t suppose you have a weapon or something to help defend myself as well do you?",
+                "Title": "Thanks Ethel, I am sure it will be very useful. I don’t suppose you have a gun or something to navigate as well do you?",
                 "DialogColor": 850474,
                 "OptionType": 1
             }
@@ -40,8 +40,8 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Why hold on a cotton picking moment youngun’ I do believe I have got something that may help you.  My grandfather used to have this device he called a Personal Pocket Computer he would carry with him everywhere he went, I’m sure it is around here somewhere…
-…ah there we go here it is.  This device should have everything you need to help you navigate your way around outside the bunker.  You are welcome to take it with you.",
+    "DialogText": "Why hold on a cotton picking moment youngun’ I do believe I have got something that may help you.  My grandfather used to have a baseball bat. It was his prize possesion - signed by some athlete he adored - it might come in handy. I’m sure it is around here somewhere…
+…ah there we go here it is.  I have no use for this thing. You are welcome to take it with you.",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
@@ -58,7 +58,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1468688754211L,
+        "TimePast": 1523413068814L,
         "Time": 0L,
         "Subject": ""
     }

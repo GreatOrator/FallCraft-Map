@@ -1,0 +1,52 @@
+{
+    "CompleterNpc": "Radio Tower Fuse Box 2",
+    "NextQuestId": 85,
+    "RandomReward": 0b,
+    "QuestRepeat": 0,
+    "QuestCompletion": 0,
+    "IgnoreNBT": 0b,
+    "Title": "Fixing Antenna 2",
+    "Text": "Trevor said the second antenna is near Pleasant Valley.",
+    "QuestFactionPoints": {
+        "DecreaseFaction1Points": 0b,
+        "OptionFaction2Points": 100,
+        "OptionFactions1": -1,
+        "OptionFactions2": -1,
+        "OptionFaction1Points": 100,
+        "DecreaseFaction2Points": 0b
+    },
+    "RewardExp": 0,
+    "QuestCommand": "",
+    "ModRev": 16,
+    "Type": 0,
+    "QuestMail": {
+        "Sender": "",
+        "BeenRead": 0b,
+        "Message": {
+        },
+        "MailItems": [
+        ],
+        "MailQuest": -1,
+        "TimePast": 1526180768757L,
+        "Time": 0L,
+        "Subject": ""
+    },
+    "IgnoreDamage": 0b,
+    "Rewards": {
+        "NpcMiscInv": [
+        ]
+    },
+    "Items": {
+        "NpcMiscInv": [
+            {
+                "Slot": 0b,
+                "id": "ThermalExpansion:material",
+                "Count": 1b,
+                "Damage": 2s
+            }
+        ]
+    },
+    "LeaveItems": 0b,
+    "CompleteText": "Great! That antenna is back online. The last antenna is near the old military base, Norad. Luckily it is on the outiside. I wouldn't want to go into the place - it's full of those walking corpses.",
+    "NextQuestTitle": "Fixing Antenna 3"
+}

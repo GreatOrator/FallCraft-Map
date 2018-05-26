@@ -1,7 +1,7 @@
 {
     "CompleterNpc": "Marc",
     "NextQuestId": -1,
-    "RandomReward": 0b,
+    "RandomReward": 1b,
     "QuestRepeat": 0,
     "QuestCompletion": 0,
     "Title": "Bandits",
@@ -14,7 +14,7 @@
         "OptionFaction1Points": 100,
         "DecreaseFaction2Points": 0b
     },
-    "RewardExp": 50,
+    "RewardExp": 0,
     "QuestCommand": "",
     "QuestDialogs": [
         {
@@ -32,14 +32,138 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1473387231582L,
+        "TimePast": 1525644573861L,
         "Time": 0L,
         "Subject": ""
     },
     "Rewards": {
         "NpcMiscInv": [
+            {
+                "Slot": 0b,
+                "id": "deci:nypdHelm",
+                "Count": 1b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 1b,
+                "id": "deci:vz52",
+                "Count": 1b,
+                "tag": {
+                    "ammo": 0,
+                    "mgItem": 0b,
+                    "gripAttach": "",
+                    "skin": "",
+                    "blood": 0,
+                    "mode": 0,
+                    "chamberAttach": "",
+                    "sightAttach": "",
+                    "firing": 0b,
+                    "barrelAttach": "",
+                    "stockAttach": "",
+                    "skinEng": "",
+                    "bolted": 0b,
+                    "mud": 0
+                },
+                "Damage": 0s
+            },
+            {
+                "Slot": 2b,
+                "id": "deci:vz52Mag",
+                "Count": 3b,
+                "tag": {
+                    "ammo": 10
+                },
+                "Damage": 0s
+            },
+            {
+                "Slot": 3b,
+                "id": "deci:ump45",
+                "Count": 1b,
+                "tag": {
+                    "ammo": 0,
+                    "mgItem": 0b,
+                    "gripAttach": "",
+                    "skin": "",
+                    "blood": 0,
+                    "mode": 0,
+                    "chamberAttach": "",
+                    "sightAttach": "",
+                    "firing": 0b,
+                    "barrelAttach": "",
+                    "stockAttach": "",
+                    "skinEng": "",
+                    "bolted": 1b,
+                    "mud": 0
+                },
+                "Damage": 0s
+            },
+            {
+                "Slot": 4b,
+                "id": "deci:vz52",
+                "Count": 1b,
+                "tag": {
+                    "ammo": 0,
+                    "mgItem": 0b,
+                    "gripAttach": "",
+                    "skin": "",
+                    "blood": 0,
+                    "mode": 0,
+                    "chamberAttach": "",
+                    "sightAttach": "",
+                    "firing": 0b,
+                    "barrelAttach": "",
+                    "stockAttach": "",
+                    "skinEng": "",
+                    "bolted": 1b,
+                    "mud": 0
+                },
+                "Damage": 0s
+            },
+            {
+                "Slot": 5b,
+                "id": "deci:nypdPants",
+                "Count": 1b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 6b,
+                "id": "deci:vz24Mag",
+                "Count": 3b,
+                "tag": {
+                    "ammo": 24
+                },
+                "Damage": 0s
+            },
+            {
+                "Slot": 7b,
+                "id": "deci:r870",
+                "Count": 1b,
+                "tag": {
+                    "ammo": 0,
+                    "mgItem": 0b,
+                    "gripAttach": "",
+                    "skin": "",
+                    "blood": 0,
+                    "mode": 0,
+                    "chamberAttach": "",
+                    "sightAttach": "",
+                    "firing": 0b,
+                    "barrelAttach": "",
+                    "stockAttach": "",
+                    "skinEng": "",
+                    "bolted": 1b,
+                    "mud": 0
+                },
+                "Damage": 0s
+            },
+            {
+                "Slot": 8b,
+                "id": "deci:nypdPants",
+                "Count": 1b,
+                "Damage": 0s
+            }
         ]
     },
-    "CompleteText": "You would make a great hunter, friend!",
+    "CompleteText": "You would make a great hunter, friend! We'll clean up here. You head back to Cozyton and we will see you there.",
     "NextQuestTitle": ""
 }

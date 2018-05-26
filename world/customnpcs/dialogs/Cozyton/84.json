@@ -22,14 +22,14 @@
     "AvailabilityQuest3": 0,
     "AvailabilityQuest4": 0,
     "ModRev": 16,
-    "DecreaseFaction1Points": 0b,
+    "DecreaseFaction1Points": 1b,
     "DialogQuest": -1,
     "AvailabilityDialog2": 0,
-    "OptionFactions1": -1,
+    "OptionFactions1": 4,
     "AvailabilityDayTime": 0,
     "OptionFactions2": -1,
     "AvailabilityFaction2Id": -1,
-    "OptionFaction1Points": 100,
+    "OptionFaction1Points": 600,
     "DialogDisableEsc": 0b,
     "AvailabilityFaction": 0,
     "DialogTitle": "Isaiah VIII",
@@ -57,7 +57,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1471733505027L,
+        "TimePast": 1524937286785L,
         "Time": 0L,
         "Subject": ""
     }

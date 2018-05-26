@@ -12,14 +12,14 @@
     "AvailabilityQuest3": 0,
     "AvailabilityQuest4": 0,
     "ModRev": 16,
-    "DecreaseFaction1Points": 0b,
-    "DialogQuest": -1,
+    "DecreaseFaction1Points": 1b,
+    "DialogQuest": 27,
     "AvailabilityDialog2": 0,
-    "OptionFactions1": -1,
+    "OptionFactions1": 5,
     "AvailabilityDayTime": 0,
     "OptionFactions2": -1,
     "AvailabilityFaction2Id": -1,
-    "OptionFaction1Points": 100,
+    "OptionFaction1Points": 1000,
     "DialogDisableEsc": 0b,
     "AvailabilityFaction": 0,
     "DialogTitle": "Rodrick VI",
@@ -47,7 +47,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1486237100450L,
+        "TimePast": 1523730386291L,
         "Time": 0L,
         "Subject": ""
     }

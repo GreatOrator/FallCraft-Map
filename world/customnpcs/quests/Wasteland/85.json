@@ -1,0 +1,52 @@
+{
+    "CompleterNpc": "Radio Tower Fuse Box 3",
+    "NextQuestId": 91,
+    "RandomReward": 0b,
+    "QuestRepeat": 0,
+    "QuestCompletion": 0,
+    "IgnoreNBT": 0b,
+    "Title": "Fixing Antenna 3",
+    "Text": "Head to Norad and locate the antenna tower there.",
+    "QuestFactionPoints": {
+        "DecreaseFaction1Points": 0b,
+        "OptionFaction2Points": 100,
+        "OptionFactions1": -1,
+        "OptionFactions2": -1,
+        "OptionFaction1Points": 100,
+        "DecreaseFaction2Points": 0b
+    },
+    "RewardExp": 0,
+    "QuestCommand": "",
+    "ModRev": 16,
+    "Type": 0,
+    "QuestMail": {
+        "Sender": "",
+        "BeenRead": 0b,
+        "Message": {
+        },
+        "MailItems": [
+        ],
+        "MailQuest": -1,
+        "TimePast": 1526180775657L,
+        "Time": 0L,
+        "Subject": ""
+    },
+    "IgnoreDamage": 0b,
+    "Rewards": {
+        "NpcMiscInv": [
+        ]
+    },
+    "Items": {
+        "NpcMiscInv": [
+            {
+                "Slot": 0b,
+                "id": "ThermalExpansion:material",
+                "Count": 1b,
+                "Damage": 2s
+            }
+        ]
+    },
+    "LeaveItems": 0b,
+    "CompleteText": "That did it. All the towers are online. Come back and try using the radio.",
+    "NextQuestTitle": "Contact Alpha Base"
+}

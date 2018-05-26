@@ -4,9 +4,9 @@
     "RandomReward": 0b,
     "QuestRepeat": 0,
     "QuestCompletion": 0,
-    "IgnoreNBT": 0b,
+    "IgnoreNBT": 1b,
     "Title": "George’s Pistol",
-    "Text": "Find the pistol and ammunition and bring it back to Ol’ George.",
+    "Text": "Head back to Ol’ George so he can teach you how to use the weapon.",
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 0b,
         "OptionFaction2Points": 100,
@@ -27,20 +27,54 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1473389183633L,
+        "TimePast": 1523644918325L,
         "Time": 0L,
         "Subject": ""
     },
-    "IgnoreDamage": 0b,
+    "IgnoreDamage": 1b,
     "Rewards": {
         "NpcMiscInv": [
         ]
     },
     "Items": {
         "NpcMiscInv": [
+            {
+                "Slot": 0b,
+                "id": "deci:ragingbull",
+                "Count": 1b,
+                "tag": {
+                    "ammo": 0,
+                    "mgItem": 0b,
+                    "gripAttach": "",
+                    "skin": "",
+                    "blood": 0,
+                    "mode": 0,
+                    "chamberAttach": "",
+                    "sightAttach": "",
+                    "firing": 0b,
+                    "barrelAttach": "",
+                    "stockAttach": "",
+                    "skinEng": "",
+                    "bolted": 0b,
+                    "mud": 0
+                },
+                "Damage": 0s
+            },
+            {
+                "Slot": 1b,
+                "id": "deci:45acp_box",
+                "Count": 1b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 2b,
+                "id": "deci:45acp_box",
+                "Count": 1b,
+                "Damage": 0s
+            }
         ]
     },
-    "LeaveItems": 0b,
+    "LeaveItems": 1b,
     "CompleteText": "‘Ah so you found the ol’ gal.’",
     "NextQuestTitle": ""
 }

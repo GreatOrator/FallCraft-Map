@@ -1,6 +1,6 @@
 {
     "DialogShowWheel": 0b,
-    "AvailabilityQuestId": -1,
+    "AvailabilityQuestId": 21,
     "Options": [
         {
             "OptionSlot": 0,
@@ -11,11 +11,21 @@
                 "DialogColor": 15323215,
                 "OptionType": 1
             }
+        },
+        {
+            "OptionSlot": 1,
+            "Option": {
+                "DialogCommand": "",
+                "Dialog": 297,
+                "Title": "Did two men come through here lately?",
+                "DialogColor": 11702762,
+                "OptionType": 1
+            }
         }
     ],
     "DialogHideNPC": 0b,
     "AvailabilityFactionStance": 0,
-    "AvailabilityQuest": 0,
+    "AvailabilityQuest": 1,
     "AvailabilityDialog4": 0,
     "AvailabilityDialog3": 0,
     "AvailabilityQuest2": 0,
@@ -57,7 +67,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1473787820283L,
+        "TimePast": 1524707353906L,
         "Time": 0L,
         "Subject": ""
     }
