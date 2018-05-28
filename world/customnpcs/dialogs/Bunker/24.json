@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 25,
-                "Title": "Actually, he told me that if I can find something to navigate and something to defend myself then he would consider allowing me to go and look for some power cells. Do you know of anything that may be of use while I am out there?",
+                "Title": "Actually, he told me that if I can find something to navigate and something to defend myself then he would consider allowing me to go and look for some power cells. Going to see if Ol' George has something.",
                 "DialogColor": 850474,
                 "OptionType": 1
             }
@@ -58,7 +58,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1523412037763L,
+        "TimePast": 1527462394523L,
         "Time": 0L,
         "Subject": ""
     }

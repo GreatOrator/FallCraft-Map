@@ -40,7 +40,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Yer a’gonna need to knows how to use it proper if she gon’ keep yer back. Now there ain’t a heap o bullets so go easy. Make sure the magazine is up in there as tight as bark on a tree. She’ll kick like a mule but squeeze her tight an’ she’ll see ya through. Take fine care of her, shes one special ol’ gal.",
+    "DialogText": "Yer a’gonna need to knows how to use it proper if she gon’ keep yer back. Now there ain’t a heap o bullets so go easy. Make sure the bullets are pressed into the barrel as tight as bark on a tree. She’ll kick like a mule but squeeze her tight an’ she’ll see ya through. Take fine care of her, she's one special ol’ gal.",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
@@ -57,7 +57,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1527182122977L,
+        "TimePast": 1527462655322L,
         "Time": 0L,
         "Subject": ""
     }
