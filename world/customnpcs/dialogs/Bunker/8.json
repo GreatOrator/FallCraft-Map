@@ -6,10 +6,10 @@
             "OptionSlot": 0,
             "Option": {
                 "DialogCommand": "",
-                "Dialog": 9,
+                "Dialog": -1,
                 "Title": "Sure, I‘ll go and see him right now.",
                 "DialogColor": 850474,
-                "OptionType": 1
+                "OptionType": 0
             }
         },
         {
@@ -19,7 +19,7 @@
                 "Dialog": -1,
                 "Title": "Erm….I have a list of jobs I need to get to myself. I won’t have time to help you with yours as well.  Sorry Ethel.",
                 "DialogColor": 15321935,
-                "OptionType": 0
+                "OptionType": 2
             }
         }
     ],
@@ -33,7 +33,7 @@
     "AvailabilityQuest4": 0,
     "ModRev": 16,
     "DecreaseFaction1Points": 0b,
-    "DialogQuest": -1,
+    "DialogQuest": 1,
     "AvailabilityDialog2": 0,
     "OptionFactions1": -1,
     "AvailabilityDayTime": 0,
@@ -67,7 +67,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1523648505725L,
+        "TimePast": 1527461270471L,
         "Time": 0L,
         "Subject": ""
     }

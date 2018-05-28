@@ -6,7 +6,7 @@
             "OptionSlot": 0,
             "Option": {
                 "DialogCommand": "",
-                "Dialog": 5,
+                "Dialog": 381,
                 "Title": "I’m curious about what is outside the bunker. What can you remember of the world before you came in here?",
                 "DialogColor": 850474,
                 "OptionType": 1
@@ -67,7 +67,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1523648632575L,
+        "TimePast": 1527455191522L,
         "Time": 0L,
         "Subject": ""
     }

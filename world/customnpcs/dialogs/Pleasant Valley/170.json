@@ -30,7 +30,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "There has been no contact with Prime Base. Just static.......however, there is a group of paladins who call themselves the Iron Legion in the area - north-west. If you find them as you travel the wastes, perhaps you could convince them to ally themselves and offer training and weapons. It's worth a shot at least.",
+    "DialogText": "There has been no contact with Alpha Base. Just static.......however, there is a group of paladins who call themselves the Iron Legion in the area - north-west. If you find them as you travel the wastes, perhaps you could convince them to ally themselves and offer training and weapons. It's worth a shot at least.",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
@@ -47,7 +47,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1524070401550L,
+        "TimePast": 1527464420173L,
         "Time": 0L,
         "Subject": ""
     }

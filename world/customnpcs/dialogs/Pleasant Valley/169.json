@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 170,
-                "Title": "Nobody else in the area can help? What about Prime Base?",
+                "Title": "Nobody else in the area can help? What about Alpha Base?",
                 "DialogColor": 5106016,
                 "OptionType": 1
             }
@@ -40,7 +40,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "The remaining members of the Davis Project are stretched pretty thin. Riverside to the west and a mining operation far north-west. I suppose you will find out sooner or later. The project's M.A.R.S. team for this region went rogue. Their leader snapped once he  woke and saw the devestation. He's been holed up in what remains of Colorado Springs to the east and he has control of most of the military. We do not have enough personnel to police the area and train the survivors to defend themselves - although they have been doing a fine job without us - they could benefit from more training and supplies.",
+    "DialogText": "The remaining members of The Project are stretched pretty thin. Riverside to the west and a mining operation far north-west. I suppose you will find out sooner or later. The project's M.A.R.S. team for this region went rogue. Their leader snapped once he  woke and saw the devestation. He's been holed up in what remains of Colorado Springs to the east and he has control of most of the military. We do not have enough personnel to police the area and train the survivors to defend themselves - although they have been doing a fine job without us - they could benefit from more training and supplies.",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
@@ -57,7 +57,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1524078680602L,
+        "TimePast": 1527464393525L,
         "Time": 0L,
         "Subject": ""
     }
