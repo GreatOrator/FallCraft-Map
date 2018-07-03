@@ -40,7 +40,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "I am torn about restoring the computer. On the one hand I am concerned the Ciphers will learn too much too quickly and not be able to handle the knowledge. On the other hand, the schematics on the walls are deteriorating quickly and we could lose all knowledge. So, I think the lesser of two evils would be to restore the computer.",
+    "DialogText": "I am torn about restoring the computer. On the one hand I am concerned the Coders will learn too much too quickly and not be able to handle the knowledge. On the other hand, the schematics on the walls are deteriorating quickly and we could lose all knowledge. So, I think the lesser of two evils would be to restore the computer.",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
@@ -57,7 +57,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1525492822345L,
+        "TimePast": 1529724540387L,
         "Time": 0L,
         "Subject": ""
     }

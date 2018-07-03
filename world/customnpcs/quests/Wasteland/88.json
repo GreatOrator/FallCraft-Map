@@ -7,11 +7,11 @@
     "Title": "Orbital Electronics",
     "Text": "Head to the old Orbital Electronics building to see if there are fuses still left intact.",
     "QuestFactionPoints": {
-        "DecreaseFaction1Points": 0b,
+        "DecreaseFaction1Points": 1b,
         "OptionFaction2Points": 100,
-        "OptionFactions1": -1,
+        "OptionFactions1": 12,
         "OptionFactions2": -1,
-        "OptionFaction1Points": 100,
+        "OptionFaction1Points": 700,
         "DecreaseFaction2Points": 0b
     },
     "RewardExp": 0,
@@ -28,7 +28,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1526180752807L,
+        "TimePast": 1530330352991L,
         "Time": 0L,
         "Subject": ""
     },

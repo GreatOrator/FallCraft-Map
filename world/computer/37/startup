@@ -1,0 +1,11 @@
+a = 1
+while a == 1 do 
+if fs.exists("disk/alongtimeago") then
+term.redirect(peripheral.wrap("right")) shell.run('disk/alongtimeago')
+-- a = 2
+term.clear()
+end
+sleep(5)
+end
+
+

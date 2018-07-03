@@ -1,0 +1,106 @@
+{
+    "CompleterNpc": "Modii101",
+    "NextQuestId": -1,
+    "RandomReward": 1b,
+    "QuestRepeat": 0,
+    "QuestCompletion": 0,
+    "IgnoreNBT": 0b,
+    "Title": "Return Modii's Dolls",
+    "Text": "Now that you have Modii's dolls, return to his home in Pleasant Valley.",
+    "QuestFactionPoints": {
+        "DecreaseFaction1Points": 0b,
+        "OptionFaction2Points": 100,
+        "OptionFactions1": -1,
+        "OptionFactions2": -1,
+        "OptionFaction1Points": 100,
+        "DecreaseFaction2Points": 0b
+    },
+    "RewardExp": 0,
+    "QuestCommand": "",
+    "ModRev": 16,
+    "Type": 0,
+    "QuestMail": {
+        "Sender": "",
+        "BeenRead": 0b,
+        "Message": {
+        },
+        "MailItems": [
+        ],
+        "MailQuest": -1,
+        "TimePast": 1527781627108L,
+        "Time": 0L,
+        "Subject": ""
+    },
+    "IgnoreDamage": 0b,
+    "Rewards": {
+        "NpcMiscInv": [
+            {
+                "Slot": 0b,
+                "id": "deci:ItemBottledCherryade",
+                "Count": 1b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 1b,
+                "id": "deci:ItemBarEnergyBlueberry",
+                "Count": 1b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 2b,
+                "id": "deci:ItemDrinkCanEnergyCitrus",
+                "Count": 1b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 3b,
+                "id": "deci:ItemDrinkCanWater",
+                "Count": 1b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 4b,
+                "id": "deci:hoodie1",
+                "Count": 1b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 5b,
+                "id": "deci:ItemCannedPear",
+                "Count": 1b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 6b,
+                "id": "deci:ItemCannedMacncheese",
+                "Count": 2b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 7b,
+                "id": "deci:ItemCannedKebab",
+                "Count": 2b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 8b,
+                "id": "deci:ItemBottledWater",
+                "Count": 2b,
+                "Damage": 0s
+            }
+        ]
+    },
+    "Items": {
+        "NpcMiscInv": [
+            {
+                "Slot": 0b,
+                "id": "props:props",
+                "Count": 1b,
+                "Damage": 635s
+            }
+        ]
+    },
+    "LeaveItems": 0b,
+    "CompleteText": "The band is back together! Thanks for finding them. I guess I should apologize to Heather now.",
+    "NextQuestTitle": ""
+}

@@ -40,7 +40,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "That’s the thing…no….nothing. I went to bed and this morning it was gone without a trace. Nothing was left behind by the thief….trust me…I looked. That Arizrain has always envied my rocking chair. I am sure she stole it but I have no proof. Of course she denies it. However, I am going to buy some more ammo for my guns and keep a better watch. No one will steal from me again.",
+    "DialogText": "That’s the thing…no….nothing. I went to bed and this morning it was gone without a trace. Nothing was left behind by the thief….trust me…I looked. That Arizrain has always envied my rocking chair. I am sure she stole it but I have no proof. Of course she denies it. However, I am going to buy some more ammo for my guns and keep a better watch. No one will steal from me again. Then I am going to bake some cupcakes.",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
@@ -57,7 +57,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1523418148664L,
+        "TimePast": 1527699409783L,
         "Time": 0L,
         "Subject": ""
     }

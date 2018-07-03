@@ -11,6 +11,16 @@
                 "DialogColor": 2028089,
                 "OptionType": 1
             }
+        },
+        {
+            "OptionSlot": 1,
+            "Option": {
+                "DialogCommand": "",
+                "Dialog": 422,
+                "Title": "I will see if I can find seed for you.",
+                "DialogColor": 4057939,
+                "OptionType": 2
+            }
         }
     ],
     "DialogHideNPC": 0b,
@@ -32,7 +42,7 @@
     "OptionFaction1Points": 100,
     "DialogDisableEsc": 0b,
     "AvailabilityFaction": 0,
-    "DialogTitle": "Report II",
+    "DialogTitle": "Report IIa",
     "AvailabilityDialog": 0,
     "AvailabilityFaction2": 0,
     "AvailabilityFactionId": -1,
@@ -57,7 +67,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1525493706094L,
+        "TimePast": 1530326721443L,
         "Time": 0L,
         "Subject": ""
     }

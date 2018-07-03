@@ -9,9 +9,9 @@
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 0b,
         "OptionFaction2Points": 100,
-        "OptionFactions1": -1,
+        "OptionFactions1": 6,
         "OptionFactions2": -1,
-        "OptionFaction1Points": 100,
+        "OptionFaction1Points": 600,
         "DecreaseFaction2Points": 0b
     },
     "RewardExp": 0,
@@ -32,7 +32,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1526748694068L,
+        "TimePast": 1530325946692L,
         "Time": 0L,
         "Subject": ""
     },

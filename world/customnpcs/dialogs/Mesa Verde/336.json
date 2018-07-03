@@ -1,6 +1,6 @@
 {
     "DialogShowWheel": 0b,
-    "AvailabilityQuestId": -1,
+    "AvailabilityQuestId": 98,
     "Options": [
         {
             "OptionSlot": 0,
@@ -15,7 +15,7 @@
     ],
     "DialogHideNPC": 0b,
     "AvailabilityFactionStance": 0,
-    "AvailabilityQuest": 0,
+    "AvailabilityQuest": 1,
     "AvailabilityDialog4": 0,
     "AvailabilityDialog3": 0,
     "AvailabilityQuest2": 0,
@@ -24,7 +24,7 @@
     "ModRev": 16,
     "DecreaseFaction1Points": 0b,
     "DialogQuest": -1,
-    "AvailabilityDialog2": 2,
+    "AvailabilityDialog2": 0,
     "OptionFactions1": -1,
     "AvailabilityDayTime": 0,
     "OptionFactions2": -1,
@@ -33,18 +33,18 @@
     "DialogDisableEsc": 0b,
     "AvailabilityFaction": 0,
     "DialogTitle": "Legacy I",
-    "AvailabilityDialog": 0,
+    "AvailabilityDialog": 2,
     "AvailabilityFaction2": 0,
     "AvailabilityFactionId": -1,
     "AvailabilityFaction2Stance": 0,
     "DialogCommand": "",
-    "AvailabilityDialogId": -1,
+    "AvailabilityDialogId": 338,
     "OptionFaction2Points": 100,
     "DialogText": "You surprised me with your knowledge in helping Geo and with your adeptness at clearing out the Razors. I don’t suppose you would be willing to help us out with another bit of technology?",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
-    "AvailabilityDialog2Id": 338,
+    "AvailabilityDialog2Id": -1,
     "AvailabilityDialog3Id": -1,
     "AvailabilityDialog4Id": -1,
     "AvailabilityMinPlayerLevel": 0,
@@ -57,7 +57,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1525493786645L,
+        "TimePast": 1528593689526L,
         "Time": 0L,
         "Subject": ""
     }

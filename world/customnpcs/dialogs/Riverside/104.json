@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 105,
-                "Title": "Easy. I just came to talk. I am part of the Davis Project too.",
+                "Title": "Easy. I just came to talk. I am part of The Project too.",
                 "DialogColor": 523813,
                 "OptionType": 1
             }
@@ -57,7 +57,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1523813478667L,
+        "TimePast": 1528058518660L,
         "Time": 0L,
         "Subject": ""
     }

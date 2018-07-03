@@ -40,7 +40,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": 212,
     "OptionFaction2Points": 100,
-    "DialogText": "As far as I have found out, we used to be human before the war, then heavy amount of radiation over the years made us into \"super mutants\". Our Strength increased exponentially, but our intelligence degraded. Since we looked very different from regular humans and we were very aggressive fighting soon broke out. As a result my ancestors ventured out to search for shelter. That’s when we found this place. It was far enough away from most other humans and very secure, so we made it our home.",
+    "DialogText": "As far as I have found out, we used to be human before the war, then exposure to heavy amounts of radiation over the years made us into \"super mutants\". Our strength increased exponentially, but our intelligence degraded. Since we looked very different from regular humans and we were very aggressive, fighting soon broke out. As a result my ancestors ventured out to search for shelter. That’s when we found this place. It was far enough away from most other humans and very secure, so we made it our home.",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
@@ -57,7 +57,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1524932262137L,
+        "TimePast": 1528243957300L,
         "Time": 0L,
         "Subject": ""
     }
