@@ -33,12 +33,12 @@
     "DialogDisableEsc": 0b,
     "AvailabilityFaction": 0,
     "DialogTitle": "Nemonik I",
-    "AvailabilityDialog": 0,
+    "AvailabilityDialog": 1,
     "AvailabilityFaction2": 0,
     "AvailabilityFactionId": -1,
     "AvailabilityFaction2Stance": 0,
     "DialogCommand": "",
-    "AvailabilityDialogId": -1,
+    "AvailabilityDialogId": 338,
     "OptionFaction2Points": 100,
     "DialogText": "Hello stranger, I am grateful for your help against the Razors. I am the Nemonik. A foreign word to you perhaps?",
     "AvailabilityQuest4Id": -1,
@@ -57,7 +57,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1525493860545L,
+        "TimePast": 1529724532187L,
         "Time": 0L,
         "Subject": ""
     }

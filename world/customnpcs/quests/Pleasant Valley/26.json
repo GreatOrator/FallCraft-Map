@@ -7,11 +7,11 @@
     "Title": "Power Grab",
     "Text": "Time to head into Pleasant Valley and take out the mayor so Rodrick's gang can come in and take over.",
     "QuestFactionPoints": {
-        "DecreaseFaction1Points": 0b,
+        "DecreaseFaction1Points": 1b,
         "OptionFaction2Points": 100,
         "OptionFactions1": -1,
         "OptionFactions2": -1,
-        "OptionFaction1Points": 100,
+        "OptionFaction1Points": 1000,
         "DecreaseFaction2Points": 0b
     },
     "RewardExp": 0,
@@ -32,7 +32,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1526748702471L,
+        "TimePast": 1530326067192L,
         "Time": 0L,
         "Subject": ""
     },
@@ -58,6 +58,6 @@
             }
         ]
     },
-    "CompleteText": "The deed is done.",
+    "CompleteText": "You are no longer welcome in Pleasant Valley. Rodrick and his gang took over the town promising them safety from the likes of you.",
     "NextQuestTitle": ""
 }

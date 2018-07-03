@@ -40,7 +40,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": 88,
     "OptionFaction2Points": 100,
-    "DialogText": "Hey there, friend! If you’re looking for clean water, this used to be the place - not any more.",
+    "DialogText": "Hey there, friend! If you’re looking for clean water, this used to be the place - not any more. But, you can enjoy our hospitality! Trade with the merchants and visit the banker.",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
@@ -57,7 +57,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1523798324291L,
+        "TimePast": 1528132844563L,
         "Time": 0L,
         "Subject": ""
     }

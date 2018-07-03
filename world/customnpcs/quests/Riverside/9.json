@@ -32,7 +32,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1525645772462L,
+        "TimePast": 1528127181066L,
         "Time": 0L,
         "Subject": ""
     },
@@ -71,8 +71,10 @@
             },
             {
                 "Slot": 2b,
-                "id": "deci:ItemBandage",
+                "id": "deci:ItemHikingPack_Green",
                 "Count": 1b,
+                "tag": {
+                },
                 "Damage": 0s
             },
             {

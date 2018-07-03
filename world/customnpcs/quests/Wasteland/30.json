@@ -27,7 +27,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1526164783608L,
+        "TimePast": 1527792773010L,
         "Time": 0L,
         "Subject": ""
     },
@@ -38,6 +38,12 @@
                 "Slot": 0b,
                 "id": "minecraft:name_tag",
                 "Count": 1b,
+                "tag": {
+                    "RepairCost": 2,
+                    "display": {
+                        "Name": "Doggo"
+                    }
+                },
                 "Damage": 0s
             }
         ]

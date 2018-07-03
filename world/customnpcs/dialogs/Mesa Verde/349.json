@@ -7,9 +7,9 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Talk",
+                "Title": "I will need to speak with Abakus.",
                 "DialogColor": 2028089,
-                "OptionType": 1
+                "OptionType": 0
             }
         }
     ],
@@ -57,7 +57,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1525493574244L,
+        "TimePast": 1529870452285L,
         "Time": 0L,
         "Subject": ""
     }

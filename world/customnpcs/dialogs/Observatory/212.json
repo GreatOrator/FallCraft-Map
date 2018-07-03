@@ -30,7 +30,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Well while I was growing up, I could see I was quite different from the others. At first I tried to teach them to speak and act better, but they just didn’t understand. Then one day I happened upon a place with books and quickly taught myself how to read. It was then that I started having my people collect books as they went out hunting. Then soon after that when I had learned how to operate a computer, I had them bring back computer disks. After a time I came to the conclusion that there may be a way, through science, to raise the IQ of my people.",
+    "DialogText": "Well while I was growing up, I could see I was quite different from the others. At first I tried to teach them to speak and act better, but they just didn’t understand. Then one day I happened upon a place with books and quickly taught myself how to read. It was then that I started having my people collect books as they went out hunting. Then soon after that, when I had learned how to operate a computer, I had them bring back computer disks. After a time I came to the conclusion that there may be a way, through science, to raise the intelligence of my people.",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
@@ -47,7 +47,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1523840047658L,
+        "TimePast": 1528244020649L,
         "Time": 0L,
         "Subject": ""
     }

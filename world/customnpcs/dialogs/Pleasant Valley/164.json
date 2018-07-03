@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "You would need to return the items stolen and regain their trust, but I think this could be a benefit to everyone.",
+                "Title": "I think this could be a benefit to everyone.",
                 "DialogColor": 3469364,
                 "OptionType": 0
             }
@@ -57,7 +57,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1523730378491L,
+        "TimePast": 1527729822433L,
         "Time": 0L,
         "Subject": ""
     }

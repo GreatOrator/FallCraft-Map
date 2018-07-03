@@ -13,7 +13,7 @@
     "AvailabilityQuest4": 0,
     "ModRev": 16,
     "DecreaseFaction1Points": 0b,
-    "DialogQuest": -1,
+    "DialogQuest": 120,
     "AvailabilityDialog2": 0,
     "OptionFactions1": -1,
     "AvailabilityDayTime": 0,
@@ -30,7 +30,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "First, we need power. A generator that outputs more than our wind turbine. Secondly, we need a new processors so the computer can run properly again.",
+    "DialogText": "First, we need power. A generator that outputs more than our wind turbine. Secondly, we need a new processor so the computer can run properly again. But where would one find something like that in the Wasteland?",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
@@ -47,7 +47,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1525492999095L,
+        "TimePast": 1529725293238L,
         "Time": 0L,
         "Subject": ""
     }

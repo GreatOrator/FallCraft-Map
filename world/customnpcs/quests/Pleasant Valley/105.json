@@ -1,0 +1,106 @@
+{
+    "CompleterNpc": "HeatherReneeB",
+    "NextQuestId": -1,
+    "RandomReward": 1b,
+    "QuestRepeat": 0,
+    "QuestCompletion": 0,
+    "IgnoreNBT": 0b,
+    "Title": "Return Heather's Chair",
+    "Text": "Now that you have Heather's rocking chair, return to her home in Pleasant Valley.",
+    "QuestFactionPoints": {
+        "DecreaseFaction1Points": 0b,
+        "OptionFaction2Points": 100,
+        "OptionFactions1": -1,
+        "OptionFactions2": -1,
+        "OptionFaction1Points": 100,
+        "DecreaseFaction2Points": 0b
+    },
+    "RewardExp": 0,
+    "QuestCommand": "",
+    "ModRev": 16,
+    "Type": 0,
+    "QuestMail": {
+        "Sender": "",
+        "BeenRead": 0b,
+        "Message": {
+        },
+        "MailItems": [
+        ],
+        "MailQuest": -1,
+        "TimePast": 1527781631557L,
+        "Time": 0L,
+        "Subject": ""
+    },
+    "IgnoreDamage": 0b,
+    "Rewards": {
+        "NpcMiscInv": [
+            {
+                "Slot": 0b,
+                "id": "deci:ItemRag",
+                "Count": 1b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 1b,
+                "id": "deci:ItemRagDirty",
+                "Count": 1b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 2b,
+                "id": "deci:ItemCannedPeach",
+                "Count": 1b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 3b,
+                "id": "deci:ItemHammer",
+                "Count": 1b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 4b,
+                "id": "deci:ItemCannedCarrot",
+                "Count": 1b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 5b,
+                "id": "deci:ItemBottledCherryade",
+                "Count": 2b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 6b,
+                "id": "deci:ItemEmptyCan",
+                "Count": 2b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 7b,
+                "id": "deci:ItemDrinkCanEnergyBlueberry",
+                "Count": 1b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 8b,
+                "id": "deci:ItemBottledWater",
+                "Count": 3b,
+                "Damage": 0s
+            }
+        ]
+    },
+    "Items": {
+        "NpcMiscInv": [
+            {
+                "Slot": 0b,
+                "id": "props:props",
+                "Count": 1b,
+                "Damage": 466s
+            }
+        ]
+    },
+    "LeaveItems": 0b,
+    "CompleteText": "So, Arizrain didn't take my rocking chair? I feel bad now for accusing her. It is also very disconcerting that outsiders managed to sneak in.",
+    "NextQuestTitle": ""
+}

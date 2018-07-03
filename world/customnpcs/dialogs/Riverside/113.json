@@ -8,7 +8,7 @@
                 "DialogCommand": "",
                 "Dialog": 114,
                 "Title": "Have you heard about power supplies and where one could get their hands on it?",
-                "DialogColor": 523813,
+                "DialogColor": 10857708,
                 "OptionType": 1
             }
         },
@@ -16,10 +16,10 @@
             "OptionSlot": 1,
             "Option": {
                 "DialogCommand": "",
-                "Dialog": -1,
-                "Title": "That is great news for you!",
-                "DialogColor": 14768872,
-                "OptionType": 0
+                "Dialog": 388,
+                "Title": "The water may be minimally affected by the storms but it is still not clean from viruses or bacteria.",
+                "DialogColor": 3796048,
+                "OptionType": 1
             }
         }
     ],
@@ -33,7 +33,7 @@
     "AvailabilityQuest4": 0,
     "ModRev": 16,
     "DecreaseFaction1Points": 0b,
-    "DialogQuest": -1,
+    "DialogQuest": 109,
     "AvailabilityDialog2": 0,
     "OptionFactions1": -1,
     "AvailabilityDayTime": 0,
@@ -50,7 +50,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "That is true, but we ran tests three months ago on the water supply at the factory. What we found was that we didn’t need the Rad-X to clean the water. The water the factory was using comes from a deep underground spring that was minimally affected by the fallout. The Rad-X can then be saved for emergency use during trips  through the wasteland.",
+    "DialogText": "That is true, but we ran tests three months ago on the water supply at the factory. The water the factory was using comes from a deep underground spring that was minimally affected by the storms during the days of darkness and shouldn't make people get the plague. The Rad-X can then be saved for emergency use during trips through the wasteland.  Thank you for your help. Here is the key to the fresh water supply. It is now open for all.",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
@@ -67,7 +67,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1473787416632L,
+        "TimePast": 1528133303564L,
         "Time": 0L,
         "Subject": ""
     }

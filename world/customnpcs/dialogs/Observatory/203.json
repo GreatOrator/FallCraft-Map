@@ -40,7 +40,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "I was born different from my mutant brothers and sister. I possess a superior intellect that not only allows me to speak well, but understand deep scientific concepts. Quite extraordinary really.",
+    "DialogText": "I was born different from my mutant brothers. I possess a superior intellect that not only allows me to speak well, but understand deep scientific concepts. Quite extraordinary really.",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
@@ -57,7 +57,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1523822305315L,
+        "TimePast": 1528243858500L,
         "Time": 0L,
         "Subject": ""
     }
