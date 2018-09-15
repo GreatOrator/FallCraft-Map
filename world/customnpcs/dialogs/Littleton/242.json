@@ -11,6 +11,26 @@
                 "DialogColor": 3273008,
                 "OptionType": 0
             }
+        },
+        {
+            "OptionSlot": 1,
+            "Option": {
+                "DialogCommand": "",
+                "Dialog": 243,
+                "Title": "There is a guy in the nearby town named Denis. Could he be your friend?",
+                "DialogColor": 1638167,
+                "OptionType": 1
+            }
+        },
+        {
+            "OptionSlot": 2,
+            "Option": {
+                "DialogCommand": "",
+                "Dialog": 439,
+                "Title": "I have been sent by a super mutant with an unusual request.",
+                "DialogColor": 1638167,
+                "OptionType": 1
+            }
         }
     ],
     "DialogHideNPC": 0b,
@@ -57,7 +77,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1524024961265L,
+        "TimePast": 1536871848457L,
         "Time": 0L,
         "Subject": ""
     }

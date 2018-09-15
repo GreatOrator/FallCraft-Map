@@ -40,7 +40,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "That is sad, friend. Lynne was always a good friend and helped the town out by cleaning the water supply. I just can’t understand why she was so afraid the Rad-X was running out. There is still a good supply of it at the factory.",
+    "DialogText": "That is sad, friend. Lynne was always a good friend and helped the town out by cleaning the water supply. I just can’t understand why she was so afraid the AntiRad was running out. There is still a good supply of it at the factory.",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
@@ -57,7 +57,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1528127259217L,
+        "TimePast": 1536769573040L,
         "Time": 0L,
         "Subject": ""
     }

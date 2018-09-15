@@ -1,7 +1,7 @@
 {
     "CompleterNpc": "Modii101",
     "NextQuestId": -1,
-    "RandomReward": 1b,
+    "RandomReward": 0b,
     "QuestRepeat": 0,
     "QuestCompletion": 0,
     "IgnoreNBT": 0b,
@@ -27,7 +27,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1527781627108L,
+        "TimePast": 1537028225226L,
         "Time": 0L,
         "Subject": ""
     },
@@ -36,56 +36,8 @@
         "NpcMiscInv": [
             {
                 "Slot": 0b,
-                "id": "deci:ItemBottledCherryade",
+                "id": "trophyslots:trophy",
                 "Count": 1b,
-                "Damage": 0s
-            },
-            {
-                "Slot": 1b,
-                "id": "deci:ItemBarEnergyBlueberry",
-                "Count": 1b,
-                "Damage": 0s
-            },
-            {
-                "Slot": 2b,
-                "id": "deci:ItemDrinkCanEnergyCitrus",
-                "Count": 1b,
-                "Damage": 0s
-            },
-            {
-                "Slot": 3b,
-                "id": "deci:ItemDrinkCanWater",
-                "Count": 1b,
-                "Damage": 0s
-            },
-            {
-                "Slot": 4b,
-                "id": "deci:hoodie1",
-                "Count": 1b,
-                "Damage": 0s
-            },
-            {
-                "Slot": 5b,
-                "id": "deci:ItemCannedPear",
-                "Count": 1b,
-                "Damage": 0s
-            },
-            {
-                "Slot": 6b,
-                "id": "deci:ItemCannedMacncheese",
-                "Count": 2b,
-                "Damage": 0s
-            },
-            {
-                "Slot": 7b,
-                "id": "deci:ItemCannedKebab",
-                "Count": 2b,
-                "Damage": 0s
-            },
-            {
-                "Slot": 8b,
-                "id": "deci:ItemBottledWater",
-                "Count": 2b,
                 "Damage": 0s
             }
         ]

@@ -8,7 +8,7 @@
                 "DialogCommand": "",
                 "Dialog": 259,
                 "Title": "I am sure it is operational. Radios pick up music coming from someplace. I will be back with news.",
-                "DialogColor": 13197544,
+                "DialogColor": 10413291,
                 "OptionType": 1
             }
         }
@@ -57,7 +57,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1526183592707L,
+        "TimePast": 1536957859476L,
         "Time": 0L,
         "Subject": ""
     }

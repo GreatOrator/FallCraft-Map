@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 295,
-                "Title": "Because without the help from GreatOrator’s team, the project is in the same situation as the Legion. Under-manned and under-equipped.",
+                "Title": "Because without the help from GreatOrator’s team, The Project is in the same situation as the Legion. Under-manned and under-equipped.",
                 "DialogColor": 1962331,
                 "OptionType": 1
             }
@@ -40,7 +40,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "You are idealistic aren’t you? Why would the Davis Project want to join forces with us?",
+    "DialogText": "You are idealistic aren’t you? Why would The Project want to join forces with us?",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
@@ -57,7 +57,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1524108434233L,
+        "TimePast": 1537025706373L,
         "Time": 0L,
         "Subject": ""
     }

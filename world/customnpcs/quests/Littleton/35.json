@@ -1,5 +1,5 @@
 {
-    "CompleterNpc": "Fitz",
+    "CompleterNpc": "Fitz24",
     "NextQuestId": -1,
     "RandomReward": 0b,
     "QuestRepeat": 0,
@@ -9,9 +9,9 @@
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 0b,
         "OptionFaction2Points": 100,
-        "OptionFactions1": -1,
+        "OptionFactions1": 9,
         "OptionFactions2": -1,
-        "OptionFaction1Points": 100,
+        "OptionFaction1Points": 500,
         "DecreaseFaction2Points": 0b
     },
     "RewardExp": 0,
@@ -32,7 +32,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1524021188769L,
+        "TimePast": 1536872691709L,
         "Time": 0L,
         "Subject": ""
     },

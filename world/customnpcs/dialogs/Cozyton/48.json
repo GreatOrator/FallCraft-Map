@@ -48,7 +48,7 @@
     "AvailabilityFactionId": -1,
     "AvailabilityFaction2Stance": 0,
     "DialogCommand": "",
-    "AvailabilityDialogId": 47,
+    "AvailabilityDialogId": 307,
     "OptionFaction2Points": 100,
     "DialogText": "Welcome to Cozyton! We are a peaceful community and welcome all.",
     "AvailabilityQuest4Id": -1,
@@ -67,7 +67,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1524707353906L,
+        "TimePast": 1536776408291L,
         "Time": 0L,
         "Subject": ""
     }

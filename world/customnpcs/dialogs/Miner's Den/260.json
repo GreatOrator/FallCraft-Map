@@ -1,6 +1,6 @@
 {
     "DialogShowWheel": 0b,
-    "AvailabilityQuestId": -1,
+    "AvailabilityQuestId": 39,
     "Options": [
         {
             "OptionSlot": 0,
@@ -25,7 +25,7 @@
     ],
     "DialogHideNPC": 0b,
     "AvailabilityFactionStance": 0,
-    "AvailabilityQuest": 0,
+    "AvailabilityQuest": 2,
     "AvailabilityDialog4": 0,
     "AvailabilityDialog3": 0,
     "AvailabilityQuest2": 0,
@@ -34,7 +34,7 @@
     "ModRev": 16,
     "DecreaseFaction1Points": 0b,
     "DialogQuest": -1,
-    "AvailabilityDialog2": 2,
+    "AvailabilityDialog2": 0,
     "OptionFactions1": -1,
     "AvailabilityDayTime": 0,
     "OptionFactions2": -1,
@@ -54,7 +54,7 @@
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
-    "AvailabilityDialog2Id": 281,
+    "AvailabilityDialog2Id": -1,
     "AvailabilityDialog3Id": -1,
     "AvailabilityDialog4Id": -1,
     "AvailabilityMinPlayerLevel": 0,
@@ -67,7 +67,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1526183940757L,
+        "TimePast": 1537023326271L,
         "Time": 0L,
         "Subject": ""
     }

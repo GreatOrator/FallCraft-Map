@@ -9,7 +9,7 @@
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 1b,
         "OptionFaction2Points": 100,
-        "OptionFactions1": -1,
+        "OptionFactions1": 6,
         "OptionFactions2": -1,
         "OptionFaction1Points": 1000,
         "DecreaseFaction2Points": 0b
@@ -19,7 +19,7 @@
     "QuestDialogs": [
         {
             "Value": 1,
-            "Slot": "Zykic"
+            "Slot": "Pepper"
         }
     ],
     "ModRev": 16,
@@ -32,7 +32,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1530326067192L,
+        "TimePast": 1536888892408L,
         "Time": 0L,
         "Subject": ""
     },

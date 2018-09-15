@@ -5,7 +5,7 @@
     "QuestRepeat": 0,
     "QuestCompletion": 0,
     "Title": "Crazy Lynne",
-    "Text": "The half-crazed LynneTelfer and her followers attack you without provocation.",
+    "Text": "The half-crazed LynneTelfer and her followers attack you without provocation. Return to Husky and tell him the news.",
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 0b,
         "OptionFaction2Points": 100,
@@ -32,7 +32,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1528127181066L,
+        "TimePast": 1537030834570L,
         "Time": 0L,
         "Subject": ""
     },

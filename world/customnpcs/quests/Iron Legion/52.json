@@ -5,7 +5,7 @@
     "QuestRepeat": 0,
     "QuestCompletion": 0,
     "Title": "An Alliance is Born I",
-    "Text": "Elder Snoop wants you to form an alliance between the Iron Legion and the Davis Project. Head back to Pleasant Valley to inform Thomas Franklin.",
+    "Text": "Elder Snoop wants you to form an alliance between the Iron Legion and The Project. Head back to Pleasant Valley to inform Thomas Franklin.",
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 0b,
         "OptionFaction2Points": 100,
@@ -28,7 +28,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1526183973007L,
+        "TimePast": 1536955361478L,
         "Time": 0L,
         "Subject": ""
     },

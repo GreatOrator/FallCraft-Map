@@ -4,6 +4,7 @@
     "RandomReward": 0b,
     "QuestRepeat": 0,
     "QuestCompletion": 1,
+    "IgnoreNBT": 0b,
     "Title": "Bringing Closure",
     "Text": "",
     "QuestFactionPoints": {
@@ -16,10 +17,8 @@
     },
     "RewardExp": 0,
     "QuestCommand": "",
-    "QuestDialogs": [
-    ],
     "ModRev": 16,
-    "Type": 1,
+    "Type": 0,
     "QuestMail": {
         "Sender": "",
         "BeenRead": 0b,
@@ -28,10 +27,11 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1525645563811L,
+        "TimePast": 1536957102277L,
         "Time": 0L,
         "Subject": ""
     },
+    "IgnoreDamage": 0b,
     "Rewards": {
         "NpcMiscInv": [
             {
@@ -42,6 +42,23 @@
             }
         ]
     },
+    "Items": {
+        "NpcMiscInv": [
+            {
+                "Slot": 0b,
+                "id": "customnpcs:npcTacticalHead",
+                "Count": 1b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 1b,
+                "id": "customnpcs:npcLetter",
+                "Count": 1b,
+                "Damage": 0s
+            }
+        ]
+    },
+    "LeaveItems": 0b,
     "CompleteText": "",
     "NextQuestTitle": ""
 }

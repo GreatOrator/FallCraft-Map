@@ -1,6 +1,6 @@
 {
     "CompleterNpc": "Geo",
-    "NextQuestId": -1,
+    "NextQuestId": 98,
     "RandomReward": 0b,
     "QuestRepeat": 0,
     "QuestCompletion": 1,
@@ -28,7 +28,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1530306371593L,
+        "TimePast": 1536883364365L,
         "Time": 0L,
         "Subject": ""
     },
@@ -49,5 +49,5 @@
         ]
     },
     "CompleteText": "",
-    "NextQuestTitle": ""
+    "NextQuestTitle": "Dull the Blade"
 }

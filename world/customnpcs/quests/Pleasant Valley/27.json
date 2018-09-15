@@ -11,7 +11,7 @@
         "OptionFaction2Points": 100,
         "OptionFactions1": 6,
         "OptionFactions2": -1,
-        "OptionFaction1Points": 600,
+        "OptionFaction1Points": 1000,
         "DecreaseFaction2Points": 0b
     },
     "RewardExp": 0,
@@ -32,7 +32,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1530325946692L,
+        "TimePast": 1536888958259L,
         "Time": 0L,
         "Subject": ""
     },

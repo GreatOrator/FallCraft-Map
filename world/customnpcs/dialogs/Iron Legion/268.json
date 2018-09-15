@@ -40,7 +40,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "I have had little contact with any from his group other than his soldiers. They kidnap people from settlements and they are never seen or heard from again. The settlements nearest the city call them The Breeders. He has way too many soldiers at his disposal and an armory that far exceeds our own. I have given up on trying to police the Wastes. You say you want to join our ranks - prove it!",
+    "DialogText": "I have had little contact with any from his group other than his soldiers. They kidnap people from settlements and they are never seen or heard from again. The settlements nearest the city call them The Breeders, I guess because that is why they kidnap - to breed better humans. He has way too many soldiers at his disposal and an armory that far exceeds our own. I have given up on trying to police the Wastes. You say you want to join our ranks - prove it!",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
@@ -57,7 +57,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1524000495167L,
+        "TimePast": 1536951627477L,
         "Time": 0L,
         "Subject": ""
     }

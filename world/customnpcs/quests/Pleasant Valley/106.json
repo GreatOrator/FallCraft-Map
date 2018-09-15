@@ -1,7 +1,7 @@
 {
     "CompleterNpc": "Arizrain",
     "NextQuestId": -1,
-    "RandomReward": 1b,
+    "RandomReward": 0b,
     "QuestRepeat": 0,
     "QuestCompletion": 0,
     "IgnoreNBT": 0b,
@@ -27,7 +27,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1527781623757L,
+        "TimePast": 1537028243427L,
         "Time": 0L,
         "Subject": ""
     },
@@ -36,77 +36,8 @@
         "NpcMiscInv": [
             {
                 "Slot": 0b,
-                "id": "deci:ItemCrispsCoolranch",
+                "id": "trophyslots:trophy",
                 "Count": 1b,
-                "Damage": 0s
-            },
-            {
-                "Slot": 1b,
-                "id": "deci:colt",
-                "Count": 1b,
-                "tag": {
-                    "ammo": 0,
-                    "mgItem": 0b,
-                    "gripAttach": "",
-                    "skin": "",
-                    "blood": 0,
-                    "mode": 0,
-                    "chamberAttach": "",
-                    "sightAttach": "",
-                    "firing": 0b,
-                    "barrelAttach": "",
-                    "stockAttach": "",
-                    "skinEng": "",
-                    "bolted": 1b,
-                    "mud": 0
-                },
-                "Damage": 0s
-            },
-            {
-                "Slot": 2b,
-                "id": "deci:ItemDrinkCanEnergy",
-                "Count": 1b,
-                "Damage": 0s
-            },
-            {
-                "Slot": 3b,
-                "id": "minecraft:glass_bottle",
-                "Count": 1b,
-                "Damage": 0s
-            },
-            {
-                "Slot": 4b,
-                "id": "deci:ItemFannyPack_Green",
-                "Count": 1b,
-                "tag": {
-                },
-                "Damage": 0s
-            },
-            {
-                "Slot": 5b,
-                "id": "deci:ItemBandageDirty",
-                "Count": 3b,
-                "Damage": 0s
-            },
-            {
-                "Slot": 6b,
-                "id": "deci:makarovMag",
-                "Count": 4b,
-                "tag": {
-                    "ammo": 8
-                },
-                "Damage": 0s
-            },
-            {
-                "Slot": 7b,
-                "id": "deci:ItemCannedMacncheese",
-                "Count": 1b,
-                "Damage": 0s
-            },
-            {
-                "Slot": 8b,
-                "id": "deci:ItemCannedKebab",
-                "Count": 3b,
                 "Damage": 0s
             }
         ]

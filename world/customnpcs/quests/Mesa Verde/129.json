@@ -28,7 +28,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1530329056842L,
+        "TimePast": 1537028798824L,
         "Time": 0L,
         "Subject": ""
     },
@@ -36,6 +36,6 @@
         "NpcMiscInv": [
         ]
     },
-    "CompleteText": "",
+    "CompleteText": "So, Isaac wants us to prove we mean well and that the Elder has changed. I am not dure that will sit very well with him,  but I will talk to him. Speak to me later tonight.",
     "NextQuestTitle": ""
 }

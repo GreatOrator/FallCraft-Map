@@ -16,7 +16,7 @@
             "OptionSlot": 1,
             "Option": {
                 "DialogCommand": "",
-                "Dialog": -1,
+                "Dialog": 402,
                 "Title": "I talked to the nurses and they gave me some tips on surviving wounds and diseases.",
                 "DialogColor": 2682466,
                 "OptionType": 1
@@ -77,7 +77,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1528400446201L,
+        "TimePast": 1536884952157L,
         "Time": 0L,
         "Subject": ""
     }

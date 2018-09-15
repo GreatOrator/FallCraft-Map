@@ -30,7 +30,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Wait here……Elder Snoop, we have someone here claiming to be part of the Davis Project and looking to join our ranks. <Send them in to see me.>  Yes, sir. You may go in now.
+    "DialogText": "Wait here……Elder Snoop, we have someone here claiming to be part of The Project and looking to join our ranks. <Send them in to see me.>  Yes, sir. You may go in now.
 ",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
@@ -48,7 +48,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1523998578316L,
+        "TimePast": 1536945547427L,
         "Time": 0L,
         "Subject": ""
     }

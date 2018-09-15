@@ -1,0 +1,124 @@
+{
+    "CompleterNpc": "Jack Hanson",
+    "NextQuestId": -1,
+    "RandomReward": 0b,
+    "QuestRepeat": 0,
+    "QuestCompletion": 0,
+    "IgnoreNBT": 0b,
+    "Title": "Items for Hanson",
+    "Text": "Jack Hanson, on the road between Pleasant Valley and Riverside, told me he found a suit that would help me survive the toxic waters. I need to find a motor and some iron coils to barter.",
+    "QuestFactionPoints": {
+        "DecreaseFaction1Points": 0b,
+        "OptionFaction2Points": 100,
+        "OptionFactions1": -1,
+        "OptionFactions2": -1,
+        "OptionFaction1Points": 100,
+        "DecreaseFaction2Points": 0b
+    },
+    "RewardExp": 0,
+    "QuestCommand": "",
+    "ModRev": 16,
+    "Type": 0,
+    "QuestMail": {
+        "Sender": "",
+        "BeenRead": 0b,
+        "Message": {
+        },
+        "MailItems": [
+        ],
+        "MailQuest": -1,
+        "TimePast": 1536766141790L,
+        "Time": 0L,
+        "Subject": ""
+    },
+    "IgnoreDamage": 0b,
+    "Rewards": {
+        "NpcMiscInv": [
+            {
+                "Slot": 0b,
+                "id": "IC2:itemArmorHazmatHelmet",
+                "Count": 1b,
+                "tag": {
+                    "ench": [
+                        {
+                            "lvl": 3s,
+                            "id": 200s
+                        }
+                    ],
+                    "RepairCost": 2,
+                    "display": {
+                        "Name": "Hazmat Helmet"
+                    }
+                },
+                "Damage": 0s
+            },
+            {
+                "Slot": 1b,
+                "id": "IC2:itemArmorHazmatChestplate",
+                "Count": 1b,
+                "tag": {
+                    "ench": [
+                        {
+                            "lvl": 3s,
+                            "id": 200s
+                        }
+                    ],
+                    "RepairCost": 2
+                },
+                "Damage": 0s
+            },
+            {
+                "Slot": 2b,
+                "id": "IC2:itemArmorHazmatLeggings",
+                "Count": 1b,
+                "tag": {
+                    "ench": [
+                        {
+                            "lvl": 3s,
+                            "id": 200s
+                        }
+                    ],
+                    "RepairCost": 2
+                },
+                "Damage": 0s
+            },
+            {
+                "Slot": 3b,
+                "id": "IC2:itemArmorRubBoots",
+                "Count": 1b,
+                "tag": {
+                    "ench": [
+                        {
+                            "lvl": 3s,
+                            "id": 200s
+                        }
+                    ],
+                    "RepairCost": 2,
+                    "display": {
+                        "Name": "Hazmat Boots"
+                    }
+                },
+                "Damage": 0s
+            }
+        ]
+    },
+    "Items": {
+        "NpcMiscInv": [
+            {
+                "Slot": 0b,
+                "id": "ProjRed|Core:projectred.core.part",
+                "Count": 1b,
+                "Damage": 15s
+            },
+            {
+                "Slot": 1b,
+                "id": "ProjRed|Core:projectred.core.part",
+                "Count": 4b,
+                "Damage": 17s
+            }
+        ]
+    },
+    "LeaveItems": 0b,
+    "CompleteText": "Thanks, friend! You've certainly saved me some time and effort. Here is what I promised. It will greatly reduce your chance of being poisoned in the water. Good luck!",
+    "NextQuestTitle": ""
+}

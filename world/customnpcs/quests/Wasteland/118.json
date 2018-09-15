@@ -1,6 +1,6 @@
 {
     "CompleterNpc": "Soldier",
-    "NextQuestId": -1,
+    "NextQuestId": 144,
     "RandomReward": 1b,
     "QuestRepeat": 0,
     "QuestCompletion": 1,
@@ -27,7 +27,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1528562417969L,
+        "TimePast": 1537033147424L,
         "Time": 0L,
         "Subject": ""
     },
@@ -128,7 +128,7 @@
             }
         ]
     },
-    "LeaveItems": 0b,
-    "CompleteText": "Wow, friend. I honestly didn't think you could find the items. We will take it from here. Take this for our appreciation.",
-    "NextQuestTitle": ""
+    "LeaveItems": 1b,
+    "CompleteText": "",
+    "NextQuestTitle": "Return to Husky"
 }

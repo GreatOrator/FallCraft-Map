@@ -40,7 +40,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "My side? It is simple. I explained it clearly to Husky. We cannot keep selling cheap clean water to the town or to anyone passing through. We are running low on Rad-X. How are we going to get more? I asked him to send people out to get more, but he said no. That it is too dangerous.",
+    "DialogText": "My side? It is simple. I explained it clearly to Husky. We cannot keep selling cheap clean water to the town or to anyone passing through. We are running low on AntiRad. How are we going to get more? I asked him to send people out to get more, but he said no. That it is too dangerous.",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
@@ -57,7 +57,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1523813572767L,
+        "TimePast": 1536768641790L,
         "Time": 0L,
         "Subject": ""
     }

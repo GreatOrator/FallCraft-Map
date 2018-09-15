@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 102,
-                "Title": "I guess she was afraid of the Rad-X running out.",
+                "Title": "I guess she was afraid of the AntiRad running out.",
                 "DialogColor": 523813,
                 "OptionType": 1
             }
@@ -57,7 +57,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1523758548141L,
+        "TimePast": 1536768025140L,
         "Time": 0L,
         "Subject": ""
     }

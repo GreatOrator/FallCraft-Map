@@ -5,7 +5,7 @@
     "QuestRepeat": 0,
     "QuestCompletion": 0,
     "IgnoreNBT": 0b,
-    "Title": "Finding Denis II",
+    "Title": "Finding Denis I",
     "Text": "Fitz asked you to take a letter to Denis in the town of Littleton.",
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 0b,
@@ -27,7 +27,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1524024647565L,
+        "TimePast": 1536872267657L,
         "Time": 0L,
         "Subject": ""
     },
@@ -68,5 +68,5 @@ Your buddy, Fitz"
     },
     "LeaveItems": 0b,
     "CompleteText": "....",
-    "NextQuestTitle": "Finding Denis III"
+    "NextQuestTitle": "Finding Denis II"
 }

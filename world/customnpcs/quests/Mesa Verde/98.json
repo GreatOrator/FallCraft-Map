@@ -4,7 +4,6 @@
     "RandomReward": 1b,
     "QuestRepeat": 0,
     "QuestCompletion": 0,
-    "IgnoreNBT": 0b,
     "Title": "Dull the Blade",
     "Text": "Geo has given you the honor of using the railgun against the Razors camped across the road.",
     "QuestFactionPoints": {
@@ -17,8 +16,14 @@
     },
     "RewardExp": 0,
     "QuestCommand": "",
+    "QuestDialogs": [
+        {
+            "Value": 6,
+            "Slot": "Razor"
+        }
+    ],
     "ModRev": 16,
-    "Type": 0,
+    "Type": 4,
     "QuestMail": {
         "Sender": "",
         "BeenRead": 0b,
@@ -27,11 +32,10 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1530328081443L,
+        "TimePast": 1536883509063L,
         "Time": 0L,
         "Subject": ""
     },
-    "IgnoreDamage": 0b,
     "Rewards": {
         "NpcMiscInv": [
             {
@@ -146,11 +150,6 @@
             }
         ]
     },
-    "Items": {
-        "NpcMiscInv": [
-        ]
-    },
-    "LeaveItems": 0b,
     "CompleteText": "You say the gun did well against  the Razors? That is good news and our leader would like to hear about that.",
     "NextQuestTitle": "Remove Railgun"
 }

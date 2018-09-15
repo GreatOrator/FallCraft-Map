@@ -30,7 +30,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Lynne started to protest the price of clean water. She claimed that the Rad-X used in cleaning the water was running out, so the price should reflect that. ",
+    "DialogText": "Lynne started to protest the price of clean water. She claimed that the AntiRad used in cleaning the water was running out, so the price should reflect that. ",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
@@ -47,7 +47,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1473392192382L,
+        "TimePast": 1536767895090L,
         "Time": 0L,
         "Subject": ""
     }

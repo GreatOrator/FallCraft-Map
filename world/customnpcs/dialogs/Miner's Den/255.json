@@ -6,8 +6,8 @@
             "OptionSlot": 0,
             "Option": {
                 "DialogCommand": "",
-                "Dialog": -1,
-                "Title": " I know of other Project members who have tried to contact Prime Base and have failed. ",
+                "Dialog": 256,
+                "Title": "I know of other Project members who have tried to contact Prime Base and have failed. ",
                 "DialogColor": 1504069,
                 "OptionType": 1
             }
@@ -57,7 +57,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1523978446117L,
+        "TimePast": 1536957175427L,
         "Time": 0L,
         "Subject": ""
     }

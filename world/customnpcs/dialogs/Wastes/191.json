@@ -13,7 +13,7 @@
     "AvailabilityQuest4": 0,
     "ModRev": 16,
     "DecreaseFaction1Points": 0b,
-    "DialogQuest": -1,
+    "DialogQuest": 132,
     "AvailabilityDialog2": 0,
     "OptionFactions1": -1,
     "AvailabilityDayTime": 0,
@@ -30,7 +30,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Since yer a traveller like me, I will cut you a deal. Find me {item} and I will trade with you.",
+    "DialogText": "Since yer a traveller like me, I will cut you a deal. I am looking for some components to fix some old machines in Pleasant Valley. Find me a motor and some iron coils and I will trade with you.",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
@@ -47,7 +47,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1528405344552L,
+        "TimePast": 1536765951889L,
         "Time": 0L,
         "Subject": ""
     }

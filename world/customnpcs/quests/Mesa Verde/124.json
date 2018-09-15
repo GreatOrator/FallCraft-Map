@@ -5,7 +5,7 @@
     "QuestRepeat": 0,
     "QuestCompletion": 0,
     "Title": "New Seed",
-    "Text": "Abakus at Mesa Verde asked you to travel back to Pleasant Valley to ask for seed to replace their tainted stores.",
+    "Text": "Abakus at Mesa Verde asked you to travel back to Pleasant Valley to ask for seed to replace their tainted stores. Perhaps the mayor can help.",
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 0b,
         "OptionFaction2Points": 100,
@@ -28,7 +28,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1530326441794L,
+        "TimePast": 1536888417707L,
         "Time": 0L,
         "Subject": ""
     },

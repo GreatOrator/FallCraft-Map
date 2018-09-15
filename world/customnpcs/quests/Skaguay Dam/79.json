@@ -6,7 +6,7 @@
     "QuestCompletion": 0,
     "IgnoreNBT": 0b,
     "Title": "Turn it On!",
-    "Text": "Now that you have the bootup disk, its time to access the mainframe on level 13.",
+    "Text": "Now that you have the bootup disk, its time to access the mainframe on level 12.",
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 0b,
         "OptionFaction2Points": 100,
@@ -27,7 +27,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1526146253759L,
+        "TimePast": 1536849369343L,
         "Time": 0L,
         "Subject": ""
     },
