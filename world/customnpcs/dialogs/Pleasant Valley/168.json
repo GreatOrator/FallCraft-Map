@@ -40,7 +40,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "A lot of destruction....most of the buildings from pre-war have been reduced to rubble. There are a handleful of survivor settlements scattered across the wasteland. A lot more mutated creatures and humanoids than we were prepared for. Clean water is hard to come by and food is scarce. I am part of the Recon team from Bunker 780 and we set up the Agriculture specialists here. Pleasant Valley is the only place to get fresh food.",
+    "DialogText": "A lot of destruction....most of the buildings from pre-war have been reduced to rubble. There are a handful of survivor settlements scattered across the wasteland. A lot more mutated creatures and humanoids than we were prepared for. Clean water is hard to come by and food is scarce. I am part of the Recon team from Bunker 780 and we set up the Agriculture specialists here. Pleasant Valley is the only place to get fresh food.",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
@@ -57,7 +57,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1527464341974L,
+        "TimePast": 1536714113126L,
         "Time": 0L,
         "Subject": ""
     }

@@ -5,7 +5,7 @@
     "QuestRepeat": 0,
     "QuestCompletion": 1,
     "Title": "Contact Alpha Base",
-    "Text": "Head to the radio station and see if you can contact the Davis Project's Alpha Base.",
+    "Text": "Head to the radio station and see if you can contact The Project's Alpha Base.",
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 0b,
         "OptionFaction2Points": 100,
@@ -28,7 +28,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1526183676108L,
+        "TimePast": 1536959925088L,
         "Time": 0L,
         "Subject": ""
     },

@@ -6,7 +6,7 @@
             "OptionSlot": 0,
             "Option": {
                 "DialogCommand": "",
-                "Dialog": -1,
+                "Dialog": 254,
                 "Title": "Not only did you open a nest of spiders but there is a lot of radiation down there. If the spiders didn’t kill your crew, the radiation certainly did.",
                 "DialogColor": 1504069,
                 "OptionType": 1
@@ -57,7 +57,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1523978319267L,
+        "TimePast": 1536957151726L,
         "Time": 0L,
         "Subject": ""
     }

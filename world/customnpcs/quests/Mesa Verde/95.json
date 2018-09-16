@@ -6,7 +6,7 @@
     "QuestCompletion": 0,
     "IgnoreNBT": 0b,
     "Title": "Finding Electrum",
-    "Text": "You have given Geo your word that you will search for electrum and bring it back to her.",
+    "Text": "You have given Geo your word that you will search for electrum and bring it back to her. You think you saw a coin shop somewhere along the road between Riverside and Pleasant Valley.",
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 0b,
         "OptionFaction2Points": 100,
@@ -27,7 +27,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1530328085942L,
+        "TimePast": 1537033488419L,
         "Time": 0L,
         "Subject": ""
     },

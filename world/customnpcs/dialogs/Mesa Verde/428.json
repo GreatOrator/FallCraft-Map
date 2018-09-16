@@ -11,6 +11,16 @@
                 "DialogColor": 4057939,
                 "OptionType": 1
             }
+        },
+        {
+            "OptionSlot": 1,
+            "Option": {
+                "DialogCommand": "",
+                "Dialog": 430,
+                "Title": "I will see who I can talk to at the Legion.",
+                "DialogColor": 2224221,
+                "OptionType": 2
+            }
         }
     ],
     "DialogHideNPC": 0b,
@@ -57,7 +67,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1530329204343L,
+        "TimePast": 1536889983557L,
         "Time": 0L,
         "Subject": ""
     }

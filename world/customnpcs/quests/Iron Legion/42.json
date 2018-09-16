@@ -1,6 +1,6 @@
 {
     "CompleterNpc": "Elder Snoop",
-    "NextQuestId": -1,
+    "NextQuestId": 140,
     "RandomReward": 1b,
     "QuestRepeat": 0,
     "QuestCompletion": 0,
@@ -32,7 +32,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1525645131111L,
+        "TimePast": 1536954297076L,
         "Time": 0L,
         "Subject": ""
     },
@@ -152,5 +152,5 @@
         ]
     },
     "CompleteText": "Welcome to the Iron Legion. Speak with the others. They may have tasks for you.",
-    "NextQuestTitle": ""
+    "NextQuestTitle": "Trophy"
 }

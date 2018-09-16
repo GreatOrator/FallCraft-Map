@@ -6,7 +6,7 @@
             "OptionSlot": 0,
             "Option": {
                 "DialogCommand": "",
-                "Dialog": -1,
+                "Dialog": 253,
                 "Title": "There is something else I need to tell you.",
                 "DialogColor": 1504069,
                 "OptionType": 1
@@ -57,7 +57,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1523978284567L,
+        "TimePast": 1536957142277L,
         "Time": 0L,
         "Subject": ""
     }

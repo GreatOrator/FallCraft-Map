@@ -3,7 +3,7 @@
     "NextQuestId": 79,
     "RandomReward": 0b,
     "QuestRepeat": 0,
-    "QuestCompletion": 0,
+    "QuestCompletion": 1,
     "Title": "Bootup Disk",
     "Text": "Grab the bootup disk in the room with TheOnlyBentley.",
     "QuestFactionPoints": {
@@ -28,7 +28,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1526146245110L,
+        "TimePast": 1536849428394L,
         "Time": 0L,
         "Subject": ""
     },

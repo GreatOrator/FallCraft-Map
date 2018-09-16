@@ -5,7 +5,7 @@
     "QuestRepeat": 0,
     "QuestCompletion": 0,
     "Title": "The Deserter",
-    "Text": "",
+    "Text": "Paladin Jefferson asked that you keep your eye out for a paladin named Isaac.",
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 0b,
         "OptionFaction2Points": 100,
@@ -28,7 +28,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1530329166143L,
+        "TimePast": 1537028567827L,
         "Time": 0L,
         "Subject": ""
     },
@@ -36,6 +36,6 @@
         "NpcMiscInv": [
         ]
     },
-    "CompleteText": "",
+    "CompleteText": "Hello, wastelander!",
     "NextQuestTitle": ""
 }

@@ -50,7 +50,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "That is true, but we ran tests three months ago on the water supply at the factory. The water the factory was using comes from a deep underground spring that was minimally affected by the storms during the days of darkness and shouldn't make people get the plague. The Rad-X can then be saved for emergency use during trips through the wasteland.  Thank you for your help. Here is the key to the fresh water supply. It is now open for all.",
+    "DialogText": "That is true, but we ran tests three months ago on the water supply at the factory. The water the factory was using comes from a deep underground spring that was minimally affected by the storms during the days of darkness and shouldn't make people get the plague. The AntiRad can then be saved for emergency use during trips through the wasteland.  Thank you for your help. Here is the key to the fresh water supply. It is now open for all.",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
@@ -67,7 +67,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1528133303564L,
+        "TimePast": 1536769635140L,
         "Time": 0L,
         "Subject": ""
     }

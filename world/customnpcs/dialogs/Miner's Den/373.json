@@ -8,7 +8,7 @@
                 "DialogCommand": "",
                 "Dialog": 259,
                 "Title": "On it!",
-                "DialogColor": 6350568,
+                "DialogColor": 10413291,
                 "OptionType": 1
             }
         }
@@ -57,7 +57,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1526183418258L,
+        "TimePast": 1536957899276L,
         "Time": 0L,
         "Subject": ""
     }

@@ -6,7 +6,7 @@
             "OptionSlot": 0,
             "Option": {
                 "DialogCommand": "",
-                "Dialog": -1,
+                "Dialog": 255,
                 "Title": "A Sleeper Bunker?",
                 "DialogColor": 1504069,
                 "OptionType": 1
@@ -57,7 +57,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1523978407167L,
+        "TimePast": 1536957163628L,
         "Time": 0L,
         "Subject": ""
     }

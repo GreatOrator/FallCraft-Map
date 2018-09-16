@@ -40,7 +40,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "I need to complete my machine, R2D2, to finish my research on how to improve intelligence and make us more...civilized. I believe Orbital Electronics may have the parts I need. I am very, very, very, very smart, but I’m not fighter if I’m honest. Orbital Electronics is crawling with soldiers that will kill anyone on site. Could you maybe go there and get the parts for me.",
+    "DialogText": "I need to complete my machine, R2D2, to finish my research on how to improve intelligence and make us more...civilized. I believe Orbital Electronics may have the parts I need. I am very, very, very, very smart, but I’m not a fighter if I’m honest. Orbital Electronics is crawling with soldiers that will kill anyone on site. Could you maybe go there and get the parts for me.",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
@@ -57,7 +57,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1524935655986L,
+        "TimePast": 1536959408532L,
         "Time": 0L,
         "Subject": ""
     }

@@ -16,8 +16,8 @@
             "OptionSlot": 1,
             "Option": {
                 "DialogCommand": "",
-                "Dialog": -1,
-                "Title": "Yes I am but I have not come across and miners in the Wastes.",
+                "Dialog": 280,
+                "Title": "Yes I am but I have not come across any miners in the Wastes.",
                 "DialogColor": 10585577,
                 "OptionType": 1
             }
@@ -50,7 +50,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Well, I don’t suppose you have come across any mines? We need brass for bullet casings and we are running low on supplies. Elder Snoop just gets this look of fear on his face whenever I mention sourcing brass. Your part of the Davis Project too?",
+    "DialogText": "Well, I don’t suppose you have come across any mines? We need brass for bullet casings and we are running low on supplies. Elder Snoop just gets this look of fear on his face whenever I mention sourcing brass. Your part of The Project too?",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
@@ -67,7 +67,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1524005526318L,
+        "TimePast": 1536954659477L,
         "Time": 0L,
         "Subject": ""
     }

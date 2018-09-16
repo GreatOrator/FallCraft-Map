@@ -27,7 +27,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1525656353110L,
+        "TimePast": 1536872268557L,
         "Time": 0L,
         "Subject": ""
     },
@@ -53,6 +53,6 @@
         ]
     },
     "LeaveItems": 0b,
-    "CompleteText": "Oh would you look at those! Sue, come 'ere and look at them new shoes! My poor feet and cryin' tears of joy!",
+    "CompleteText": "Oh would you look at those! Sue, come 'ere and look at them new shoes! My poor feet are cryin' tears of joy!",
     "NextQuestTitle": ""
 }

@@ -164,7 +164,7 @@ os.reboot()
  drawAttempts(attempts)
  if selection==pass then
  rs.setOutput(output,true)
- sleep(3)
+ sleep(60)
  rs.setOutput(output,false)
  sleep(1)
  os.shutdown()

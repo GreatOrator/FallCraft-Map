@@ -1,7 +1,7 @@
 {
     "CompleterNpc": "HeatherReneeB",
     "NextQuestId": -1,
-    "RandomReward": 1b,
+    "RandomReward": 0b,
     "QuestRepeat": 0,
     "QuestCompletion": 0,
     "IgnoreNBT": 0b,
@@ -27,7 +27,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1527781631557L,
+        "TimePast": 1537028207376L,
         "Time": 0L,
         "Subject": ""
     },
@@ -36,56 +36,8 @@
         "NpcMiscInv": [
             {
                 "Slot": 0b,
-                "id": "deci:ItemRag",
+                "id": "trophyslots:trophy",
                 "Count": 1b,
-                "Damage": 0s
-            },
-            {
-                "Slot": 1b,
-                "id": "deci:ItemRagDirty",
-                "Count": 1b,
-                "Damage": 0s
-            },
-            {
-                "Slot": 2b,
-                "id": "deci:ItemCannedPeach",
-                "Count": 1b,
-                "Damage": 0s
-            },
-            {
-                "Slot": 3b,
-                "id": "deci:ItemHammer",
-                "Count": 1b,
-                "Damage": 0s
-            },
-            {
-                "Slot": 4b,
-                "id": "deci:ItemCannedCarrot",
-                "Count": 1b,
-                "Damage": 0s
-            },
-            {
-                "Slot": 5b,
-                "id": "deci:ItemBottledCherryade",
-                "Count": 2b,
-                "Damage": 0s
-            },
-            {
-                "Slot": 6b,
-                "id": "deci:ItemEmptyCan",
-                "Count": 2b,
-                "Damage": 0s
-            },
-            {
-                "Slot": 7b,
-                "id": "deci:ItemDrinkCanEnergyBlueberry",
-                "Count": 1b,
-                "Damage": 0s
-            },
-            {
-                "Slot": 8b,
-                "id": "deci:ItemBottledWater",
-                "Count": 3b,
                 "Damage": 0s
             }
         ]

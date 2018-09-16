@@ -1,6 +1,6 @@
 {
     "CompleterNpc": "LynneTelfer",
-    "NextQuestId": 107,
+    "NextQuestId": 9,
     "RandomReward": 0b,
     "QuestRepeat": 0,
     "QuestCompletion": 1,
@@ -28,7 +28,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1528126223716L,
+        "TimePast": 1537030828024L,
         "Time": 0L,
         "Subject": ""
     },
@@ -43,5 +43,5 @@
         ]
     },
     "CompleteText": "",
-    "NextQuestTitle": "Lynne Faction"
+    "NextQuestTitle": "Crazy Lynne"
 }

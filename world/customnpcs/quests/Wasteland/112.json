@@ -27,7 +27,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1528508171498L,
+        "TimePast": 1536885110070L,
         "Time": 0L,
         "Subject": ""
     },
@@ -37,6 +37,12 @@
             {
                 "Slot": 0b,
                 "id": "flansmod:mwMedKit",
+                "Count": 1b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 1b,
+                "id": "trophyslots:trophy",
                 "Count": 1b,
                 "Damage": 0s
             }

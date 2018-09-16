@@ -33,12 +33,12 @@
     "DialogDisableEsc": 0b,
     "AvailabilityFaction": 0,
     "DialogTitle": "Geo IV",
-    "AvailabilityDialog": 0,
+    "AvailabilityDialog": 2,
     "AvailabilityFaction2": 0,
     "AvailabilityFactionId": -1,
     "AvailabilityFaction2Stance": 0,
     "DialogCommand": "",
-    "AvailabilityDialogId": -1,
+    "AvailabilityDialogId": 380,
     "OptionFaction2Points": 100,
     "DialogText": "I made electrum coils and Isaac showed me how to fasten them to the gun. Would you like the honor of using it against the Razors?",
     "AvailabilityQuest4Id": -1,
@@ -57,7 +57,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1528577157870L,
+        "TimePast": 1536882638912L,
         "Time": 0L,
         "Subject": ""
     }

@@ -38,7 +38,7 @@
     "AvailabilityFactionId": -1,
     "AvailabilityFaction2Stance": 0,
     "DialogCommand": "",
-    "AvailabilityDialogId": 374,
+    "AvailabilityDialogId": 380,
     "OptionFaction2Points": 100,
     "DialogText": "Abakus told me you might be stoppin’ by. I told him I could make a Railgun, but it just isn’t functioning. I thought I could alter the Pistol schematic but I must be missing something.",
     "AvailabilityQuest4Id": -1,
@@ -57,7 +57,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1526830164418L,
+        "TimePast": 1536884119814L,
         "Time": 0L,
         "Subject": ""
     }
