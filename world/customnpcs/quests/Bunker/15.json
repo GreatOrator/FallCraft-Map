@@ -1,12 +1,12 @@
 {
-    "CompleterNpc": "Commander",
+    "CompleterNpc": "Commander Riley",
     "NextQuestId": -1,
     "RandomReward": 0b,
     "QuestRepeat": 0,
     "QuestCompletion": 0,
-    "IgnoreNBT": 0b,
+    "IgnoreNBT": 1b,
     "Title": "Power Supply",
-    "Text": "Time to head out of the vault and search for a power supply.",
+    "Text": "Time to head out of the vault and search for a power supply then return to the vault and speak with the Commander.",
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 0b,
         "OptionFaction2Points": 100,
@@ -27,20 +27,55 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1523414472714L,
+        "TimePast": 1537457318206L,
         "Time": 0L,
         "Subject": ""
     },
     "IgnoreDamage": 0b,
     "Rewards": {
         "NpcMiscInv": [
+            {
+                "Slot": 0b,
+                "id": "trophyslots:trophy",
+                "Count": 1b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 1b,
+                "id": "deci:VehicleSpawnerHummer",
+                "Count": 1b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 2b,
+                "id": "deci:ItemJerryCan",
+                "Count": 1b,
+                "tag": {
+                    "amount": 11991
+                },
+                "Damage": 0s
+            }
         ]
     },
     "Items": {
         "NpcMiscInv": [
+            {
+                "Slot": 0b,
+                "id": "ThermalExpansion:Cell",
+                "Count": 1b,
+                "tag": {
+                    "Recv": 100000,
+                    "RSControl": 1b,
+                    "Facing": 3b,
+                    "Energy": -1,
+                    "SideCache": [6 bytes],
+                    "Send": 100000
+                },
+                "Damage": 0s
+            }
         ]
     },
     "LeaveItems": 0b,
-    "CompleteText": "",
+    "CompleteText": "I don't believe it! Is it you after all this time! You have certainly grown up. What's this? You found a power cell?! Well, you deserve more than just a pat on the back.",
     "NextQuestTitle": ""
 }

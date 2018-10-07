@@ -1,0 +1,58 @@
+{
+    "CompleterNpc": "Elder Snoop",
+    "NextQuestId": -1,
+    "RandomReward": 0b,
+    "QuestRepeat": 0,
+    "QuestCompletion": 0,
+    "IgnoreNBT": 0b,
+    "Title": "Notify Elder Snoop",
+    "Text": "Head upstairs and notify Elder Snoop that metal shipments have been secured and brass alloy is being made.",
+    "QuestFactionPoints": {
+        "DecreaseFaction1Points": 0b,
+        "OptionFaction2Points": 100,
+        "OptionFactions1": -1,
+        "OptionFactions2": -1,
+        "OptionFaction1Points": 100,
+        "DecreaseFaction2Points": 0b
+    },
+    "RewardExp": 0,
+    "QuestCommand": "",
+    "ModRev": 16,
+    "Type": 0,
+    "QuestMail": {
+        "Sender": "",
+        "BeenRead": 0b,
+        "Message": {
+        },
+        "MailItems": [
+        ],
+        "MailQuest": -1,
+        "TimePast": 1538932262119L,
+        "Time": 0L,
+        "Subject": ""
+    },
+    "IgnoreDamage": 0b,
+    "Rewards": {
+        "NpcMiscInv": [
+        ]
+    },
+    "Items": {
+        "NpcMiscInv": [
+            {
+                "Slot": 0b,
+                "id": "TConstruct:materials",
+                "Count": 1b,
+                "tag": {
+                    "RepairCost": 2,
+                    "display": {
+                        "Name": "Brass Ingot"
+                    }
+                },
+                "Damage": 14s
+            }
+        ]
+    },
+    "LeaveItems": 0b,
+    "CompleteText": "What is that?! Brass?! Why would you come near me with brass!!!! [Elder Snoop hides in the corner and sucks his thumb.]",
+    "NextQuestTitle": ""
+}

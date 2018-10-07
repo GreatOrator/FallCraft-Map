@@ -1,0 +1,66 @@
+{
+    "CompleterNpc": "Commander Riley",
+    "NextQuestId": -1,
+    "RandomReward": 0b,
+    "QuestRepeat": 0,
+    "QuestCompletion": 0,
+    "IgnoreNBT": 1b,
+    "Title": "Finding a Power Cell",
+    "Text": "You have set out to Pleasant Valley to see if you can find a power cell. Once you have it, return to the Bunker and talk to the Commander.",
+    "QuestFactionPoints": {
+        "DecreaseFaction1Points": 0b,
+        "OptionFaction2Points": 100,
+        "OptionFactions1": -1,
+        "OptionFactions2": -1,
+        "OptionFaction1Points": 100,
+        "DecreaseFaction2Points": 0b
+    },
+    "RewardExp": 0,
+    "QuestCommand": "",
+    "ModRev": 16,
+    "Type": 0,
+    "QuestMail": {
+        "Sender": "",
+        "BeenRead": 0b,
+        "Message": {
+        },
+        "MailItems": [
+        ],
+        "MailQuest": -1,
+        "TimePast": 1538927783319L,
+        "Time": 0L,
+        "Subject": ""
+    },
+    "IgnoreDamage": 1b,
+    "Rewards": {
+        "NpcMiscInv": [
+            {
+                "Slot": 0b,
+                "id": "deci:VehicleSpawnerM35",
+                "Count": 1b,
+                "Damage": 0s
+            }
+        ]
+    },
+    "Items": {
+        "NpcMiscInv": [
+            {
+                "Slot": 0b,
+                "id": "ThermalExpansion:Cell",
+                "Count": 1b,
+                "tag": {
+                    "Recv": 100000,
+                    "RSControl": 1b,
+                    "Facing": 3b,
+                    "Energy": -1,
+                    "SideCache": [6 bytes],
+                    "Send": 100000
+                },
+                "Damage": 0s
+            }
+        ]
+    },
+    "LeaveItems": 0b,
+    "CompleteText": "It's been so long that I left you for dead! I cannot believe you actually found a power cell and returned safely. You deserve this vehicle and I am sure it will serve you well in your adventures in the Wasteland.",
+    "NextQuestTitle": ""
+}

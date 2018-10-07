@@ -1,0 +1,55 @@
+{
+    "CompleterNpc": "Chief Chaska",
+    "NextQuestId": -1,
+    "RandomReward": 0b,
+    "QuestRepeat": 0,
+    "QuestCompletion": 0,
+    "Title": "True Justice",
+    "Text": "RSDAngelOnFire asked you to take care of the slavers and free their people. You decide to start with Tony and Frankie.",
+    "QuestFactionPoints": {
+        "DecreaseFaction1Points": 0b,
+        "OptionFaction2Points": 100,
+        "OptionFactions1": -1,
+        "OptionFactions2": -1,
+        "OptionFaction1Points": 100,
+        "DecreaseFaction2Points": 0b
+    },
+    "RewardExp": 0,
+    "QuestCommand": "",
+    "QuestDialogs": [
+        {
+            "Value": 1,
+            "Slot": "Tony D'Angelo"
+        },
+        {
+            "Value": 1,
+            "Slot": "Frankie"
+        }
+    ],
+    "ModRev": 16,
+    "Type": 4,
+    "QuestMail": {
+        "Sender": "",
+        "BeenRead": 0b,
+        "Message": {
+        },
+        "MailItems": [
+        ],
+        "MailQuest": -1,
+        "TimePast": 1537123244851L,
+        "Time": 0L,
+        "Subject": ""
+    },
+    "Rewards": {
+        "NpcMiscInv": [
+            {
+                "Slot": 0b,
+                "id": "trophyslots:trophy",
+                "Count": 1b,
+                "Damage": 0s
+            }
+        ]
+    },
+    "CompleteText": "I misjudged you. Thank you for releasing our people and ending the blockade. You will always be welcomed here.",
+    "NextQuestTitle": ""
+}

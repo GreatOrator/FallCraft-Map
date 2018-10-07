@@ -1,0 +1,42 @@
+{
+    "CompleterNpc": "Jerle17",
+    "NextQuestId": 189,
+    "QuestLocation3": "",
+    "RandomReward": 0b,
+    "QuestLocation2": "",
+    "QuestRepeat": 0,
+    "QuestCompletion": 1,
+    "Title": "Ghost Farm pt. 1",
+    "Text": "As you approach the farm, you see hanging corpses and decide to examine them.",
+    "QuestFactionPoints": {
+        "DecreaseFaction1Points": 0b,
+        "OptionFaction2Points": 100,
+        "OptionFactions1": -1,
+        "OptionFactions2": -1,
+        "OptionFaction1Points": 100,
+        "DecreaseFaction2Points": 0b
+    },
+    "RewardExp": 0,
+    "QuestCommand": "",
+    "ModRev": 16,
+    "Type": 3,
+    "QuestMail": {
+        "Sender": "",
+        "BeenRead": 0b,
+        "Message": {
+        },
+        "MailItems": [
+        ],
+        "MailQuest": -1,
+        "TimePast": 1538879646879L,
+        "Time": 0L,
+        "Subject": ""
+    },
+    "Rewards": {
+        "NpcMiscInv": [
+        ]
+    },
+    "CompleteText": "Upon closer examination, the hanging corpses are not real. They are stuffed dummies drenched in animal blood.",
+    "NextQuestTitle": "Ghost Farm pt. 2",
+    "QuestLocation": "Hanging Man"
+}

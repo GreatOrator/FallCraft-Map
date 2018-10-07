@@ -23,7 +23,7 @@
     "AvailabilityQuest4": 0,
     "ModRev": 16,
     "DecreaseFaction1Points": 0b,
-    "DialogQuest": -1,
+    "DialogQuest": 191,
     "AvailabilityDialog2": 0,
     "OptionFactions1": -1,
     "AvailabilityDayTime": 0,
@@ -40,7 +40,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "I overheard one of them talking about the thick snow this past winter, so my guess is they live up in the mountains west of here.",
+    "DialogText": "I overheard one of them talking about the thick snow this past winter, so my guess is they live up in the mountains west of here perhaps north of Riverside.",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
@@ -57,7 +57,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1528511095898L,
+        "TimePast": 1538844307326L,
         "Time": 0L,
         "Subject": ""
     }

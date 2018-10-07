@@ -30,7 +30,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "I hope you are right, I really do. The password for the Vault lock is VaultTech714. Use the console in the control room. Oh and take this fanny pack with you for extra storage. Good luck; you'll need it.",
+    "DialogText": "I hope you are right, I really do. The password for the Vault lock is VaultTech719. Use the console in the control room. Oh and take this fanny pack with you for extra storage. Good luck; you'll need it.",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
@@ -47,7 +47,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1523664207924L,
+        "TimePast": 1538927444840L,
         "Time": 0L,
         "Subject": ""
     }
