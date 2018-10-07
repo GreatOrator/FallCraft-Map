@@ -28,12 +28,27 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1537039579681L,
+        "TimePast": 1537383454961L,
         "Time": 0L,
         "Subject": ""
     },
     "Rewards": {
         "NpcMiscInv": [
+            {
+                "Slot": 0b,
+                "id": "FCTweaks:blankitem",
+                "Count": 1b,
+                "tag": {
+                    "RepairCost": 2,
+                    "display": {
+                        "Lore": [
+                            "§5Vol 1, Issue 8"
+                        ],
+                        "Name": "§cAdventure Lads Comic"
+                    }
+                },
+                "Damage": 7s
+            }
         ]
     },
     "CompleteText": "",

@@ -40,7 +40,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "I was hoping you would have more insight as you seem to be well travelled. I have asked our gardener, Numer, about it and he just shrugs it off as nothing.",
+    "DialogText": "I was hoping you would have more insight as you seem to be well travelled. I have asked our gardener, Numer, about it and he just shrugs it off as nothing and says its normal wheat.",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
@@ -57,7 +57,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1530326801642L,
+        "TimePast": 1538881678187L,
         "Time": 0L,
         "Subject": ""
     }

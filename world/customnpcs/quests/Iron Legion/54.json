@@ -28,7 +28,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1536951417826L,
+        "TimePast": 1538863182382L,
         "Time": 0L,
         "Subject": ""
     },
@@ -42,6 +42,6 @@
             }
         ]
     },
-    "CompleteText": "Wait. What? I thought that picture was a gift. I never meant to take it from him. Here I will sign it. ",
+    "CompleteText": "Wait. What? I thought that picture was a gift. I never meant to take it from him. FINE! I will sign it. ",
     "NextQuestTitle": "Bobo's Picture II"
 }

@@ -5,7 +5,7 @@
     "QuestRepeat": 0,
     "QuestCompletion": 0,
     "Title": "Special Serum",
-    "Text": "",
+    "Text": "One of the ghouls at Norad asked you to see Doctor Bones at the Emdee's building to help with the cure serum.",
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 0b,
         "OptionFaction2Points": 100,
@@ -28,7 +28,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1528511198650L,
+        "TimePast": 1538843181174L,
         "Time": 0L,
         "Subject": ""
     },

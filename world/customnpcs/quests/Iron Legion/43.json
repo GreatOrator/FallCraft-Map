@@ -1,6 +1,6 @@
 {
     "CompleterNpc": "Skiddles",
-    "NextQuestId": -1,
+    "NextQuestId": 207,
     "RandomReward": 1b,
     "QuestRepeat": 0,
     "QuestCompletion": 0,
@@ -28,7 +28,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1536954547226L,
+        "TimePast": 1538932054368L,
         "Time": 0L,
         "Subject": ""
     },
@@ -109,6 +109,6 @@
             }
         ]
     },
-    "CompleteText": "What can I help you with?",
-    "NextQuestTitle": ""
+    "CompleteText": "The Iron Legion needs metal? Of course! We will send a shipment as soon as we can.",
+    "NextQuestTitle": "Metal Shipment"
 }

@@ -1,0 +1,53 @@
+{
+    "CompleterNpc": "Paladin Jefferson",
+    "NextQuestId": 208,
+    "RandomReward": 0b,
+    "QuestRepeat": 0,
+    "QuestCompletion": 0,
+    "Title": "Metal Shipment",
+    "Text": "Return to Paladin Jefferson at the Iron Legion to tell him you found a mining group willing to send them metal.",
+    "QuestFactionPoints": {
+        "DecreaseFaction1Points": 0b,
+        "OptionFaction2Points": 100,
+        "OptionFactions1": -1,
+        "OptionFactions2": -1,
+        "OptionFaction1Points": 100,
+        "DecreaseFaction2Points": 0b
+    },
+    "RewardExp": 0,
+    "QuestCommand": "",
+    "QuestDialogs": [
+    ],
+    "ModRev": 16,
+    "Type": 1,
+    "QuestMail": {
+        "Sender": "",
+        "BeenRead": 0b,
+        "Message": {
+        },
+        "MailItems": [
+        ],
+        "MailQuest": -1,
+        "TimePast": 1538932145521L,
+        "Time": 0L,
+        "Subject": ""
+    },
+    "Rewards": {
+        "NpcMiscInv": [
+            {
+                "Slot": 0b,
+                "id": "TConstruct:materials",
+                "Count": 1b,
+                "tag": {
+                    "RepairCost": 2,
+                    "display": {
+                        "Name": "Brass Ingot"
+                    }
+                },
+                "Damage": 14s
+            }
+        ]
+    },
+    "CompleteText": "Great job, Paladin! We received our first shipment not long ago and our smiths got to work making the brass alloy. Since you are the rookie, you have the pleasure of informing Elder Snoop.",
+    "NextQuestTitle": "Notify Elder Snoop"
+}

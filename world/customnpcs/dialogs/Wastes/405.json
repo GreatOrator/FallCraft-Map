@@ -41,6 +41,26 @@
                 "DialogColor": 5368165,
                 "OptionType": 1
             }
+        },
+        {
+            "OptionSlot": 4,
+            "Option": {
+                "DialogCommand": "",
+                "Dialog": 480,
+                "Title": "I realize you cannot defend the native town, so I am going to talk to people who can if you are willing to supply them with meds.",
+                "DialogColor": 4909898,
+                "OptionType": 1
+            }
+        },
+        {
+            "OptionSlot": 5,
+            "Option": {
+                "DialogCommand": "",
+                "Dialog": 558,
+                "Title": "Have you finished the serum yet?",
+                "DialogColor": 523813,
+                "OptionType": 1
+            }
         }
     ],
     "DialogHideNPC": 0b,
@@ -70,7 +90,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Hello, stranger. What can I do for you today? Perhaps an amputation?",
+    "DialogText": "Hello. What can I do for you today? Perhaps an amputation?",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
@@ -87,7 +107,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1528511253461L,
+        "TimePast": 1538844054731L,
         "Time": 0L,
         "Subject": ""
     }

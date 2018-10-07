@@ -1,0 +1,64 @@
+{
+    "CompleterNpc": "Chief Chaska",
+    "NextQuestId": -1,
+    "RandomReward": 0b,
+    "QuestRepeat": 0,
+    "QuestCompletion": 0,
+    "IgnoreNBT": 0b,
+    "Title": "Making Connections",
+    "Text": "Return to Chief Chaska at the Chenne Reservation with the trade agreement.",
+    "QuestFactionPoints": {
+        "DecreaseFaction1Points": 0b,
+        "OptionFaction2Points": 100,
+        "OptionFactions1": -1,
+        "OptionFactions2": -1,
+        "OptionFaction1Points": 100,
+        "DecreaseFaction2Points": 0b
+    },
+    "RewardExp": 0,
+    "QuestCommand": "",
+    "ModRev": 16,
+    "Type": 0,
+    "QuestMail": {
+        "Sender": "",
+        "BeenRead": 0b,
+        "Message": {
+        },
+        "MailItems": [
+        ],
+        "MailQuest": -1,
+        "TimePast": 1537389305960L,
+        "Time": 0L,
+        "Subject": ""
+    },
+    "IgnoreDamage": 0b,
+    "Rewards": {
+        "NpcMiscInv": [
+            {
+                "Slot": 0b,
+                "id": "trophyslots:trophy",
+                "Count": 1b,
+                "Damage": 0s
+            }
+        ]
+    },
+    "Items": {
+        "NpcMiscInv": [
+            {
+                "Slot": 0b,
+                "id": "customnpcs:npcPlans",
+                "Count": 1b,
+                "tag": {
+                    "RepairCost": 2,
+                    "display": {
+                        "Name": "Trade Agreement"
+                    }
+                },
+                "Damage": 0s
+            }
+        ]
+    },
+    "LeaveItems": 0b,
+    "CompleteText": "I do hope this all turns out well for everyone involved.",
+    "NextQuestTitle": ""
+}

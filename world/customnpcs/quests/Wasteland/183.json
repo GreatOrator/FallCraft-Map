@@ -1,0 +1,104 @@
+{
+    "CompleterNpc": "Peter",
+    "NextQuestId": -1,
+    "RandomReward": 1b,
+    "QuestRepeat": 0,
+    "QuestCompletion": 0,
+    "Title": "Teaching a Lesson",
+    "Text": "Peter said he was mugged by the bandits in the building behind him. Maybe these are the same bandits Haliee mentioned. It's time to rid the Wastes from this menace.",
+    "QuestFactionPoints": {
+        "DecreaseFaction1Points": 0b,
+        "OptionFaction2Points": 100,
+        "OptionFactions1": -1,
+        "OptionFactions2": -1,
+        "OptionFaction1Points": 100,
+        "DecreaseFaction2Points": 0b
+    },
+    "RewardExp": 0,
+    "QuestCommand": "",
+    "QuestDialogs": [
+        {
+            "Value": 6,
+            "Slot": "Razor"
+        }
+    ],
+    "ModRev": 16,
+    "Type": 4,
+    "QuestMail": {
+        "Sender": "",
+        "BeenRead": 0b,
+        "Message": {
+        },
+        "MailItems": [
+        ],
+        "MailQuest": -1,
+        "TimePast": 1538665876023L,
+        "Time": 0L,
+        "Subject": ""
+    },
+    "Rewards": {
+        "NpcMiscInv": [
+            {
+                "Slot": 0b,
+                "id": "deci:ItemCannedAppleGreen",
+                "Count": 1b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 1b,
+                "id": "deci:ItemCrispsNachocheese",
+                "Count": 1b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 2b,
+                "id": "deci:ItemSyringeMorphine",
+                "Count": 1b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 3b,
+                "id": "deci:ItemBottledCherryade",
+                "Count": 1b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 4b,
+                "id": "deci:ItemCannedApplesauce",
+                "Count": 1b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 5b,
+                "id": "deci:ItemHikingPack_Green",
+                "Count": 1b,
+                "tag": {
+                },
+                "Damage": 0s
+            },
+            {
+                "Slot": 6b,
+                "id": "deci:ItemCannedMushroom",
+                "Count": 1b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 7b,
+                "id": "deci:ItemBottledWater",
+                "Count": 3b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 8b,
+                "id": "deci:apsMag",
+                "Count": 4b,
+                "tag": {
+                    "ammo": 8
+                },
+                "Damage": 0s
+            }
+        ]
+    },
+    "CompleteText": "You took care of all of them! I feel safer already.",
+    "NextQuestTitle": ""
+}
