@@ -28,7 +28,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1538928184418L,
+        "TimePast": 1539044641752L,
         "Time": 0L,
         "Subject": ""
     },
@@ -36,17 +36,15 @@
         "NpcMiscInv": [
             {
                 "Slot": 0b,
-                "id": "ThermalExpansion:Cell",
+                "id": "chisel:technical4",
                 "Count": 1b,
                 "tag": {
-                    "Recv": 100000,
-                    "RSControl": 1b,
-                    "Facing": 3b,
-                    "Energy": -1,
-                    "SideCache": [6 bytes],
-                    "Send": 100000
+                    "RepairCost": 2,
+                    "display": {
+                        "Name": "Power Cell"
+                    }
                 },
-                "Damage": 0s
+                "Damage": 3s
             }
         ]
     },
