@@ -4,7 +4,7 @@
     "RandomReward": 0b,
     "QuestRepeat": 0,
     "QuestCompletion": 0,
-    "IgnoreNBT": 1b,
+    "IgnoreNBT": 0b,
     "Title": "Finding a Power Cell",
     "Text": "You have set out to Pleasant Valley to see if you can find a power cell. Once you have it, return to the Bunker and talk to the Commander.",
     "QuestFactionPoints": {
@@ -27,11 +27,11 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1538927783319L,
+        "TimePast": 1539044628304L,
         "Time": 0L,
         "Subject": ""
     },
-    "IgnoreDamage": 1b,
+    "IgnoreDamage": 0b,
     "Rewards": {
         "NpcMiscInv": [
             {
@@ -46,17 +46,15 @@
         "NpcMiscInv": [
             {
                 "Slot": 0b,
-                "id": "ThermalExpansion:Cell",
+                "id": "chisel:technical4",
                 "Count": 1b,
                 "tag": {
-                    "Recv": 100000,
-                    "RSControl": 1b,
-                    "Facing": 3b,
-                    "Energy": -1,
-                    "SideCache": [6 bytes],
-                    "Send": 100000
+                    "RepairCost": 2,
+                    "display": {
+                        "Name": "Power Cell"
+                    }
                 },
-                "Damage": 0s
+                "Damage": 3s
             }
         ]
     },
